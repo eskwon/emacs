@@ -1,0 +1,11 @@
+#+READONLY
+#+TODO: TODO DOING DONE
+#+TAGS: ug
+#+ALLPRIORITIES: A B C
+* [[file:agendas.org][Agenda Views]]
+* [[file:New tech.org][New tech.org]]
+* [[file:Project.org][Project.org]]
+* [[file:VW design-data.org][VW design-data.org]]
+* [[file:capture.org][capture.org]]
+* [[file:emac-command.org][emac-command.org]]
+* [[file:future-trend.org][future-trend.org]]
