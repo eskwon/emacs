@@ -1,0 +1,289 @@
+#+READONLY
+* Month-agenda (W11-W16):<after>KEYS=a TITLE: Agenda</after>
+** Saturday   25 March 2023
+***  [[id:5feb8059-98c4-4465-86ac-dbb66a243470][9HP hybrid system development]] [0/3]<before>Project:</before>
+   - [ ] Test results review and repare additional test for OWC working by 3/26
+   - [ ] Additional test condition need?? 
+   - [ ] Motor saperating system review <2023-03-25>
+   :PROPERTIES:
+   :ORIGINAL_ID: e8c8b2c4-3897-44cf-b28b-0a37a5ac73c3
+   :END:
+
+** Sunday     26 March 2023
+***  ~~Preparing DV and PV status~~<before>Project:    In   1 d.:</before>
+   DEADLINE: <2023-03-27 Mon>
+   - make sample send by 3/21 6ea --> 4ea sent in 3/21 by hub not enough and performance tr low than limit.
+   - Additional sample 3/27 10piece
+   :PROPERTIES:
+   :ORIGINAL_ID: d826e3ce-a275-4797-97ac-834f0ffdced8
+   :END:
+
+***  [[id:738a7228-8091-4e64-8e03-10b8d9a3bce9][PH PPS damper plate corner crack]] [0/2]<before>Project:    In   4 d.:</before>
+   DEADLINE: <2023-03-30 Thu>
+   - [ ] Review from Jungkyo Seo report : [[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGslbPRWjfbGPmKRjnKcmHdpDvW][email]] 
+   - [ ] FEM analysis about extension ratio by shape -- bending radius or height
+   :PROPERTIES:
+   :ORIGINAL_ID: ad9dbcfa-f302-4cec-a1cd-5c86595b7e59
+   :END:
+
+** Monday     27 March 2023 W13
+***  ~~Preparing DV and PV status~~<before>Project:    Deadline:</before>
+   DEADLINE: <2023-03-27 Mon>
+   - make sample send by 3/21 6ea --> 4ea sent in 3/21 by hub not enough and performance tr low than limit.
+   - Additional sample 3/27 10piece
+   :PROPERTIES:
+   :ORIGINAL_ID: d826e3ce-a275-4797-97ac-834f0ffdced8
+   :END:
+
+***  [[id:d826e3ce-a275-4797-97ac-834f0ffdced8][TVM Reactor wear --  DV, PV]] [1/2]<before>Project:</before>
+   : DV and PV status 3/21 4TC sent, 3/27 10TC ready(+2TC not sent in 3/21)
+   : Prepare PV test in VKK, it will be made in SLP in 3/27
+    - *[[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGslkdwkWpvCGKKnPMRkBkfLXWW][email from HTS]]*
+    - AT Shipping in Jogia at 4/5 
+    - [X] PV test sample need make start from 3/27 --> will be arrive VK 4/1??
+    - [ ] Sample supply from 3/27 availiable  <2023-03-27 Mon>
+   :PROPERTIES:
+   :ORIGINAL_ID: 64542bc5-0f88-4e44-8799-f79f08d6cac0
+   :END:
+
+***  Power saparating Motor development study<before>Project:</before>
+   - 철손을 줄이기 위해서는 2000rpm 이상에서 분리해야 한다
+   :PROPERTIES:
+   :ORIGINAL_ID: 9f186505-8b18-474d-8f29-9f4a762190f3
+   :END:
+
+** Tuesday    28 March 2023
+***  대구고등검사장 내방 : [[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGslbPRqbSVQMzQgrgwfBQvmhXz][email]]<before>Project:    15:00-15:40</before>
+
+   :PROPERTIES:
+   :ORIGINAL_ID: 36962f97-6bff-49c8-8aa7-59d06196ef0b
+   :END:
+
+** Wednesday  29 March 2023
+***  임원 봉사 활동 : 3/29(수) 두류공원 11시20분 도착 [[https://mail.google.com/mail/u/0/?tab=rm&ogbl#section_query/in%3Ainbox/FMfcgzGslbPRqVtbfNFJmDvrkCJVtCQX][email]]<before>Project:    11:20 ┄┄┄┄┄ Scheduled:</before>
+   SCHEDULED: <2023-03-29 Wed 11:20>
+   :PROPERTIES:
+   :ORIGINAL_ID: 3775c798-5bfd-44d8-8bef-46b5846d2564
+   :END:
+
+** Thursday   30 March 2023
+***  CEO RnD Monthly meeting 3/30 ~<before>Project:    15:00 ┄┄┄┄┄ Scheduled:</before>
+   SCHEDULED: <2023-03-30 Thu 15:00>
+   :PROPERTIES:
+   :ORIGINAL_ID: 8061f1a8-2010-4c1a-905b-f21499d579e1
+   :END:
+
+***  [[id:738a7228-8091-4e64-8e03-10b8d9a3bce9][PH PPS damper plate corner crack]] [0/2]<before>Project:    Deadline:</before>
+   DEADLINE: <2023-03-30 Thu>
+   - [ ] Review from Jungkyo Seo report : [[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGslbPRWjfbGPmKRjnKcmHdpDvW][email]] 
+   - [ ] FEM analysis about extension ratio by shape -- bending radius or height
+   :PROPERTIES:
+   :ORIGINAL_ID: ad9dbcfa-f302-4cec-a1cd-5c86595b7e59
+   :END:
+
+** Wednesday  12 April 2023
+***  PHC Leaders Group seminor : 4/12일 예정<before>Project:     8:00 ┄┄┄┄┄ Scheduled:</before>
+   SCHEDULED: <2023-04-12 Wed 08:00>
+   :PROPERTIES:
+   :ORIGINAL_ID: 04aa94a7-24dd-4b88-8714-1af3e4310bc2
+   :END:
+
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+* ToDo: ALL<after>KEYS=t TITLE: ALL TODO</after>
+**  TODO New technology [0/6]<before>Project:</before>
+   - [ ] [[High precision gearing for Robot]] [0/2]
+     - [ ] study how to work it see Youtube
+     - [ ] Detail study about bearing slip effect
+   - [ ] [[Hydrogen gas station with TC]] [0/1]
+     - [ ] Study cooling system in TC
+   - [ ] [[id:a9a2a70b-30c5-4ff3-99f2-71975830e057][Digital twin -- SIMENS pregentation materials]]
+   - [ ] [[Electric retarder]] [0/1]
+     - [ ] Cooling system for ER study
+   - [ ] [[Gas phase cycle engine]] [0/1]
+     - [ ] Idea feasibility study
+   :PROPERTIES:
+   :ORIGINAL_ID: eb9a3795-113d-4caf-b535-16fabdb6cbb4
+   :END:
+
+**  TODO ``Project Status and Urgent issue check note``<before>Project:</before>
+
+   :PROPERTIES:
+   :ORIGINAL_ID: e472aef3-e2bb-40f6-9ec5-8673d79e51d4
+   :END:
+
+**  TODO ~~Lecture for engineering~~<before>Project:</before>
+   - Hertz pressure stress calculation
+     - Max hertz pressure Roller OWC 3300 others 2500Mpa
+   - OWC floating point calculation and inner race diameter
+   - OWC torque for TVM and TVA etc
+   - Wear and Lubrication and roughness and hardness
+     - conformal contact and non-conformal contact
+   - Balancing basics
+     - aspect ratio and x-y balance effect
+     - weighting position
+   - Balancing mechanism
+   :PROPERTIES:
+   :ORIGINAL_ID: 9e96455e-893b-4105-a4de-cb5ca122889b
+   :END:
+
+**  TODO ~~My project~~ review<before>Project:</before>
+   1. *VW Project support*
+      - Square rivet failre
+        - Change layout -- torque path is no good way
+        - Rivet claculation method and correllation simple way
+        - Fatique calaulation method study and calculation their life time
+      - Damper plate broken
+      - Fluid noise
+      - Clatter noise
+      - TVM Lockup slip life
+      - Pendulum issue
+   :PROPERTIES:
+   :ORIGINAL_ID: fa8a04dd-0f76-4ca9-9fed-6cdcd0d58694
+   :END:
+
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+* Month-agenda (W11-W16):<after>KEYS=n#1 TITLE: Agenda and all TODOs</after>
+** Saturday   25 March 2023
+***  [[id:5feb8059-98c4-4465-86ac-dbb66a243470][9HP hybrid system development]] [0/3]<before>Project:</before>
+   - [ ] Test results review and repare additional test for OWC working by 3/26
+   - [ ] Additional test condition need?? 
+   - [ ] Motor saperating system review <2023-03-25>
+   :PROPERTIES:
+   :ORIGINAL_ID: e8c8b2c4-3897-44cf-b28b-0a37a5ac73c3
+   :END:
+
+** Sunday     26 March 2023
+***  ~~Preparing DV and PV status~~<before>Project:    In   1 d.:</before>
+   DEADLINE: <2023-03-27 Mon>
+   - make sample send by 3/21 6ea --> 4ea sent in 3/21 by hub not enough and performance tr low than limit.
+   - Additional sample 3/27 10piece
+   :PROPERTIES:
+   :ORIGINAL_ID: d826e3ce-a275-4797-97ac-834f0ffdced8
+   :END:
+
+***  [[id:738a7228-8091-4e64-8e03-10b8d9a3bce9][PH PPS damper plate corner crack]] [0/2]<before>Project:    In   4 d.:</before>
+   DEADLINE: <2023-03-30 Thu>
+   - [ ] Review from Jungkyo Seo report : [[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGslbPRWjfbGPmKRjnKcmHdpDvW][email]] 
+   - [ ] FEM analysis about extension ratio by shape -- bending radius or height
+   :PROPERTIES:
+   :ORIGINAL_ID: ad9dbcfa-f302-4cec-a1cd-5c86595b7e59
+   :END:
+
+** Monday     27 March 2023 W13
+***  ~~Preparing DV and PV status~~<before>Project:    Deadline:</before>
+   DEADLINE: <2023-03-27 Mon>
+   - make sample send by 3/21 6ea --> 4ea sent in 3/21 by hub not enough and performance tr low than limit.
+   - Additional sample 3/27 10piece
+   :PROPERTIES:
+   :ORIGINAL_ID: d826e3ce-a275-4797-97ac-834f0ffdced8
+   :END:
+
+***  [[id:d826e3ce-a275-4797-97ac-834f0ffdced8][TVM Reactor wear --  DV, PV]] [1/2]<before>Project:</before>
+   : DV and PV status 3/21 4TC sent, 3/27 10TC ready(+2TC not sent in 3/21)
+   : Prepare PV test in VKK, it will be made in SLP in 3/27
+    - *[[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGslkdwkWpvCGKKnPMRkBkfLXWW][email from HTS]]*
+    - AT Shipping in Jogia at 4/5 
+    - [X] PV test sample need make start from 3/27 --> will be arrive VK 4/1??
+    - [ ] Sample supply from 3/27 availiable  <2023-03-27 Mon>
+   :PROPERTIES:
+   :ORIGINAL_ID: 64542bc5-0f88-4e44-8799-f79f08d6cac0
+   :END:
+
+***  Power saparating Motor development study<before>Project:</before>
+   - 철손을 줄이기 위해서는 2000rpm 이상에서 분리해야 한다
+   :PROPERTIES:
+   :ORIGINAL_ID: 9f186505-8b18-474d-8f29-9f4a762190f3
+   :END:
+
+** Tuesday    28 March 2023
+***  대구고등검사장 내방 : [[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGslbPRqbSVQMzQgrgwfBQvmhXz][email]]<before>Project:    15:00-15:40</before>
+
+   :PROPERTIES:
+   :ORIGINAL_ID: 36962f97-6bff-49c8-8aa7-59d06196ef0b
+   :END:
+
+** Wednesday  29 March 2023
+***  임원 봉사 활동 : 3/29(수) 두류공원 11시20분 도착 [[https://mail.google.com/mail/u/0/?tab=rm&ogbl#section_query/in%3Ainbox/FMfcgzGslbPRqVtbfNFJmDvrkCJVtCQX][email]]<before>Project:    11:20 ┄┄┄┄┄ Scheduled:</before>
+   SCHEDULED: <2023-03-29 Wed 11:20>
+   :PROPERTIES:
+   :ORIGINAL_ID: 3775c798-5bfd-44d8-8bef-46b5846d2564
+   :END:
+
+** Thursday   30 March 2023
+***  CEO RnD Monthly meeting 3/30 ~<before>Project:    15:00 ┄┄┄┄┄ Scheduled:</before>
+   SCHEDULED: <2023-03-30 Thu 15:00>
+   :PROPERTIES:
+   :ORIGINAL_ID: 8061f1a8-2010-4c1a-905b-f21499d579e1
+   :END:
+
+***  [[id:738a7228-8091-4e64-8e03-10b8d9a3bce9][PH PPS damper plate corner crack]] [0/2]<before>Project:    Deadline:</before>
+   DEADLINE: <2023-03-30 Thu>
+   - [ ] Review from Jungkyo Seo report : [[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGslbPRWjfbGPmKRjnKcmHdpDvW][email]] 
+   - [ ] FEM analysis about extension ratio by shape -- bending radius or height
+   :PROPERTIES:
+   :ORIGINAL_ID: ad9dbcfa-f302-4cec-a1cd-5c86595b7e59
+   :END:
+
+** Wednesday  12 April 2023
+***  PHC Leaders Group seminor : 4/12일 예정<before>Project:     8:00 ┄┄┄┄┄ Scheduled:</before>
+   SCHEDULED: <2023-04-12 Wed 08:00>
+   :PROPERTIES:
+   :ORIGINAL_ID: 04aa94a7-24dd-4b88-8714-1af3e4310bc2
+   :END:
+
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+* ToDo: ALL<after>KEYS=n#2 TITLE: Agenda and all TODOs</after>
+**  TODO New technology [0/6]<before>Project:</before>
+   - [ ] [[High precision gearing for Robot]] [0/2]
+     - [ ] study how to work it see Youtube
+     - [ ] Detail study about bearing slip effect
+   - [ ] [[Hydrogen gas station with TC]] [0/1]
+     - [ ] Study cooling system in TC
+   - [ ] [[id:a9a2a70b-30c5-4ff3-99f2-71975830e057][Digital twin -- SIMENS pregentation materials]]
+   - [ ] [[Electric retarder]] [0/1]
+     - [ ] Cooling system for ER study
+   - [ ] [[Gas phase cycle engine]] [0/1]
+     - [ ] Idea feasibility study
+   :PROPERTIES:
+   :ORIGINAL_ID: eb9a3795-113d-4caf-b535-16fabdb6cbb4
+   :END:
+
+**  TODO ``Project Status and Urgent issue check note``<before>Project:</before>
+
+   :PROPERTIES:
+   :ORIGINAL_ID: e472aef3-e2bb-40f6-9ec5-8673d79e51d4
+   :END:
+
+**  TODO ~~Lecture for engineering~~<before>Project:</before>
+   - Hertz pressure stress calculation
+     - Max hertz pressure Roller OWC 3300 others 2500Mpa
+   - OWC floating point calculation and inner race diameter
+   - OWC torque for TVM and TVA etc
+   - Wear and Lubrication and roughness and hardness
+     - conformal contact and non-conformal contact
+   - Balancing basics
+     - aspect ratio and x-y balance effect
+     - weighting position
+   - Balancing mechanism
+   :PROPERTIES:
+   :ORIGINAL_ID: 9e96455e-893b-4105-a4de-cb5ca122889b
+   :END:
+
+**  TODO ~~My project~~ review<before>Project:</before>
+   1. *VW Project support*
+      - Square rivet failre
+        - Change layout -- torque path is no good way
+        - Rivet claculation method and correllation simple way
+        - Fatique calaulation method study and calculation their life time
+      - Damper plate broken
+      - Fluid noise
+      - Clatter noise
+      - TVM Lockup slip life
+      - Pendulum issue
+   :PROPERTIES:
+   :ORIGINAL_ID: fa8a04dd-0f76-4ca9-9fed-6cdcd0d58694
+   :END:
+

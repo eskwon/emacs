@@ -1,0 +1,143 @@
+#+STARTUP: indent
+* reference & recommand
+- https://opensource.com/life/16/2/intro-to-emacs ; for emac
+- https://lucidmanager.org/productivity/more-productive-with-emacs/ ; emacs tutorials
+- https://www.youtube.com/playlist?list=PLxj9UAX4Em-IiOfvF2Qs742LxEK4owSkr ; emacs tutorials
+- https://www.labri.fr/perso/nrougier/GTD/index.html#org9f2e38c ; for GTD using LISP and ORG --
+- http://cachestocaches.com/2016/9/my-workflow-org-agenda/ ; some example for emacs
+- [[https://stackoverflow.com/questions/56228430/display-scheduled-routines-actual-done-time-in-agenda-view][ ; about emacs agenda list]]
+- https://hugocisneros.com/org-config/#agenda-style ; Org face and setting
+* Comment Emac Commands
+- M-X eval-region : selection region evaluation
+- C-k : delete line
+- C-/ : undelete
+- C-v : page down
+- M-v : page up
+- C-SPC : selection
+- M-w : copy
+- C-w : cut
+- C-y : past
+- M-y : past prevoius copyed
+- C-/ : redo
+- C-- : undo
+- C-s : search, C-s next.. reverse C-r
+      : C-s and C-w search with cusered work
+- M->(<): end of paper or start of paper
+- C-g :calcel, quit command
+- TAB : folding dor extend
+- C-c C-j : jump to items and RET
+- alt+shift+move : items move
+- C-c C-t : togle todo done
+- M-x org-show-todo-tree : show all of todo list
+  or C-c / t : type one by one
+- C-x 1,2,3 : select window numbers
+- C-c d : directory open
+- C-x C-(+/-) : Zooming window
+- M-x customize : customizing
+- C-x C-o : link open
+- C-x o : Switch window
+- C-u 0 C-l : Top in cusur line
+- M-x list-colors-display : available color display "hot pink, tomato, dark orange, deep pink"
+- M-x eval-buffer : initial file apply imediatly
+- M-x customize-option org-emphasis-alist : bold, itelic etc...customize
+- C-u 30 C-x } : window size horizontally increase
+- M-<up>/<dn> : Stuff block move up and down
+- M-x rectangle-mark-mode : recangle mark mode = C-x <SPC>
+- C-x r t : Reacangular selection and insert text -- 
+- C-x r k(d) : kill or (delete)
+- C-x r M-w : copy in recangle mark mode
+- C-x * * : calculation quick --- m a (algebra mode), m r(radian mode)
+- C-h i ? : tutorials information etc... C-h i g calc : calculation manual
+- C-h v : Look up emacs variable in the manual
+- C-h k : Look up emacs key binding in the manual
+- C-h f : Look up emacs function in the manual
+- 0 w (zero w) in dired : copy path
+* Table equation
+- equation input like =$1+$2, and equation C-c C-c for calculation.
+  #+TBLFM: $3=$2+$1
+
+* calculation function 
+: for calculation function evaluable
+(org-babel-do-load-languages
+   'org-babel-load-languages
+      '((calc . t)))
+
+(org-babel-do-load-languages
+  'org-babel-load-languages
+  '((emacs-lisp . nil)
+    (R . t)))
+
+(setq org-image-actual-width 400)
+ 
+(global-set-key [f4] "¢¡")
+
+* switch acting window
+- C-x o
+* Switch buffer
+- C-x C-b
+
+* local file open link
+- for local file link
+  : [[file+sys:c:/xxx.pptx][open]]
+* ini files
+- ini file location : ~/.emacs.d/init.el  or ~/.emacs
+- high light text youtube : https://www.youtube.com/watch?v=Cvz2tiT12-I        
+* Lisp example
+ - M-x ev-r for excute at curror end of line
+ (message
+   "(1 * 2) + 2 + (5 - 4) + 4 = %d"
+   (+ (* 1 2) 2 (- 5 4) 4))
+
+ (setq x 2)
+ (setq y (+ x 1))
+ (setq z (+ x y))
+ (message "%d %d %d" x y z)
+ (message "%f" pi)
+
+ 
+: (setq pi 3.141592)
+ (setq z (/ pi 3))
+ (setq z (+ 1 2))
+ (message "%f" z)
+
+ - Format code 
+: #+BEGIN_SRC <language> <switches> <header arguments>
+:   <body>
+: #+END_SRC
+: C-c C-c for excute
+ see: https://jherrlin.github.io/posts/emacs-orgmode-source-code-blocks/
+
+#+BEGIN_SRC emacs-lisp
+  (org-version)
+#+END_SRC
+
+#+RESULTS:
+: 9.6
+
+#+BEGIN_SRC calc
+  fsolve([-20 - 20 - 26 * 12 / 13 + x + y = 0, 20 * 3 + 20 * (3 + 6) - x * (6 + 6 + 3) = 0], [x,y])
+#+END_SRC
+
+#+RESULTS:
+: [x = 16, y = 48]
+
+* emacs package
+ - use-package from Melfa https://www.youtube.com/watch?v=LtTjM245MC0
+   : make ease key list to available
+
+* Local file option
+: #+STARTUP: indent
+: #+STARTUP: noindent
+: #+STARTUP: hidestars
+: #+STARTUP: showstars
+: #+STARTUP: inlineimages
+: #+startup: entitiespretty
+: #+STARTUP: overview ; when open org file open collapsed
+* Customoze
+* Agenda
+- for view 100 day agenda start from "C-u 100 C-c a"
+- and in the agenda mode, december calendar "12 v m" or "202212 v m" is available
+- v : view mode change other mode
+- f, b: forward or backward
+- time range format : <date-time>--<date time>
+

@@ -1,0 +1,1873 @@
+
+#+STARTUP: indent
+#+STARTUP: entitiespretty
+#+STARTUP: overview
+#+STARTUP: showstars
+: #+STARTUP: hidestars
+: #+STARTUP: latexpreview
+: #+STARTUP: imagepreview
+
+* Patent monthly report review -- [[https://mail.google.com/mail/u/0/?tab=rm&ogbl&zx=gurwao2uxadk#inbox/FMfcgzGrbRXnmpcQsXZmqMTqJVTGQnvX][see email]]  [[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGrbbwXtdMrXgvRLXlJpmtjwxNv][2nd email]] 
+* ~~Automatic shift bike idea review~~ [[Review New automatic shift system in Bike][link to action list]] [1/1]
+- [ ] Check Oil pump speed v.s pressure
+- [ ] Load v.s speed considering
+* ----------------------------------------------------------------
+* TODO New technology [0/6]
+:PROPERTIES:
+:ID:       eb9a3795-113d-4caf-b535-16fabdb6cbb4
+:END:
+- [ ] [[High precision gearing for Robot]] [0/2]
+  - [ ] study how to work it see Youtube
+  - [ ] Detail study about bearing slip effect
+- [ ] [[Hydrogen gas station with TC]] [0/1]
+  - [ ] Study cooling system in TC
+- [ ] [[id:a9a2a70b-30c5-4ff3-99f2-71975830e057][Digital twin -- SIMENS pregentation materials]]
+- [ ] [[Electric retarder]] [0/1]
+  - [ ] Cooling system for ER study
+- [ ] [[Gas phase cycle engine]] [0/1]
+  - [ ] Idea feasibility study
+- [ ] [[Battery system cooling fan][Battery system cooling fan]] 
+* Schedule
+** 임원 봉사 활동 : 3/29(수) 두류공원 11시20분 도착 [[https://mail.google.com/mail/u/0/?tab=rm&ogbl#section_query/in%3Ainbox/FMfcgzGslbPRqVtbfNFJmDvrkCJVtCQX][email]] 
+SCHEDULED: <2023-03-29 Wed 11:20>
+:PROPERTIES:
+:ID:       3775c798-5bfd-44d8-8bef-46b5846d2564
+:END:
+** CEO RnD Monthly meeting 3/30 15:00~
+SCHEDULED: <2023-03-30 Thu 15:00>
+:PROPERTIES:
+:ID:       8061f1a8-2010-4c1a-905b-f21499d579e1
+:END:
+** PHC Leaders Group seminor : 4/12일 예정 
+SCHEDULED: <2023-04-12 Wed 08:00>
+:PROPERTIES:
+:ID:       04aa94a7-24dd-4b88-8714-1af3e4310bc2
+:END:
+** PPS Damper plate broken resolve 
+DEADLINE: <2023-08-30>
+** 대구고등검사장 내방 <2023-03-28 Tue  15:00-15:40> : [[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGslbPRqbSVQMzQgrgwfBQvmhXz][email]]
+:PROPERTIES:
+:ID:       36962f97-6bff-49c8-8aa7-59d06196ef0b
+:END:
+* ----------------------------------------------------------------
+* TODO ``Project Status and Urgent issue check note``
+:PROPERTIES:
+:ID:       e472aef3-e2bb-40f6-9ec5-8673d79e51d4
+:END:
+** VW Project issue list
+*** [[id:85a888d2-5c0f-4d90-89a0-b95ceecbc011][TVM weight reduction schedule]]  [1/2]
+: Schedule delay
+- [X] check current status in SLP
+- [ ] KY.Lee's report review : 
+*** [[id:5e2d85c2-03bd-4b06-b7e4-3f8a2e1c24de][TVM steel plate teeth wear]] [0/3] 
+: current hardness check and compared each others
+: improved sample more wear -- or 
+- [ ] Calculation Root cause and How much hardness need for no wear
+- [ ] Send email reply : [[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGslbPRWjfQwJrrsRTlbxrqZHZB][email]] from SH Sung. -- from reproduction test, hidden other root cause estimated
+- [ ] What is real root cause? ##hardness is Correct??##
+*** [[id:78120817-e577-4a95-ba76-13375f359b21][TVM inside spring wear]] [0/2]
+: Current solution is not enough, spring radius increase
+ - [ ] Calculation How much gap made ny rotational speed....
+ - [ ] Additional Idea check with Square rivet height reduction for inside damper gap down
+*** [[id:b1b7b504-8155-43ef-b6c3-9edf6f894182][TVB Pendulum damper cost issue]] [0/2]
+- [ ] calculation mass falling motion
+- [ ] Study rubber remove or Overmold remove
+*** [[id:4494adcb-e086-42f5-8efa-985d42883404][TVA Slip durability issue and Idea]] [0/2]
+: Currently 370Nm 70rpm start from 3/20 --- Target 420Nm 70rpm will be start
+ - [ ] Check Reactor hole position change in assemble
+ - [ ] Check final changed reactor, compare outlet area
+*** [[id:1c59ce47-cad5-4252-a47d-e3bd14b62f02][TVA TC in/out pressure down suddenly]] [0/1]
+: Crrent improve idea is Correct?
+- [ ] Dring change to same as TVM design
+*** [[id:d826e3ce-a275-4797-97ac-834f0ffdced8][TVM Reactor wear --  DV, PV]] [1/2]
+:PROPERTIES:
+:ID:       64542bc5-0f88-4e44-8799-f79f08d6cac0
+:END:
+: DV and PV status 3/21 4TC sent, 3/27 10TC ready(+2TC not sent in 3/21)
+: Prepare PV test in VKK, it will be made in SLP in 3/27
+ - *[[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGslkdwkWpvCGKKnPMRkBkfLXWW][email from HTS]]*
+ - AT Shipping in Jogia at 4/5 
+ - [X] PV test sample need make start from 3/27 --> will be arrive VK 4/1??
+ - [ ] Sample supply from 3/27 availiable  <2023-03-27 Mon>
+*** [[id:d09a1e7a-da40-45b8-8a9d-16bf6e7f487e][OWC Wear issue]]
+*** [[id:e9ed04c3-0686-4b7e-bb87-940c6434b27f][Lockup shock issue]]
+- 피스톤 키내부에 살씹히는 형상이 존재 하지 않길 바란다.
+- 132대 정도되는데, 36대 보다 많아질 것 같다.
+- 중량 절감 사양 계획을 제출해 달라.
+*** [[id:53a7ba49-6b0b-48e8-bf80-7b20010478b8][TVA scherdel, seal,.. aplicable plan]] [1/1]
+: Currently it is diccicult to apply within P1 status
+- [X] FNOK mass production expierience 
+*** [[id:3b4b756d-08f4-428e-9039-fdba36abf5c4][TVM PV test failure -- spring broken]]
+- Sent sample to BKL and find out root cause
+*** TVO Damper plate broken at 1,233km -- old version plate issue
+*** TVA/TVB issue status
+- [[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGslbJhPbRzQTTMbPnVwCRFvSWT][related email]]
+** Hybrid system
+*** [[id:9f186505-8b18-474d-8f29-9f4a762190f3][Motor Saperating system]]
+- Concept and Study with 아이디어 점검 회의 원인과 왜 필요한가 등등...
+*** [[id:5feb8059-98c4-4465-86ac-dbb66a243470][9HP hybrid system development]] [0/3]
+:PROPERTIES:
+:ID:       e8c8b2c4-3897-44cf-b28b-0a37a5ac73c3
+:END:
+- [ ] Test results review and repare additional test for OWC working by 3/26
+- [ ] Additional test condition need?? 
+- [ ] Motor saperating system review <2023-03-25>
+*** [[id:04447fff-4949-4731-adf3-3f533088c103][8HP50 Hybrid system development]]
+*** [[id:338a8cab-0a93-4ee6-9db8-f9317e751678][New OWC concept study]]
+- 2 kinds of type study -- friction and wedge type
+*** Additional study
+- [[id:0bbb438e-690c-4778-b618-c2459e32386c][Exedy Edrive information]]
+** P0 Project issue list
+*** [[id:74321815-b1fd-4dfc-bdec-4b3b7c6c9891][PO HMC FR8S Pendulum key off noise issue]] [0/2] 
+- Schedule tight --> keeping what is root cause
+- [ ] Rubber stopper thicker
+- [ ] Spacer gap increasnga
+*** [[id:738a7228-8091-4e64-8e03-10b8d9a3bce9][PH PPS damper plate corner crack]] [0/2]
+DEADLINE: <2023-03-30 Thu>
+:PROPERTIES:
+:ID:       ad9dbcfa-f302-4cec-a1cd-5c86595b7e59
+:END:
+- [ ] Review from Jungkyo Seo report : [[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGslbPRWjfbGPmKRjnKcmHdpDvW][email]] 
+- [ ] FEM analysis about extension ratio by shape -- bending radius or height
+*** [[id:81074632-80ed-4b1a-ae71-76b829d7b51e][LX3 Theta 2.5T A8MF2 4way TC RFQ]]
+- Is it for SLP plant
+*** [[id:38fd5994-5c6f-4830-8427-eebc45b24b15][KBN Customer driving durability test failed -- judder issue]]
+- friction \mu-V NG issue after Powertrain durability test
+- It is cost issue : around 3,000KRW  
+*** [[id:8a404a4a-5fca-4d08-a4b7-54e8196ec360][RPA EP6L TC facing abnormal wear]]
+- facing tapered wear -- is it related with Plant bonding issue?
+** New technology study
+- [[id:452f9c7f-8a27-4d61-b02d-fdd6eba71b11][Supernal AAM hydai Motor]]
+- [[id:47baa147-d4f9-4f1b-bb4e-d46ba619adb3][New technology item list]]
+- [[id:0bbb438e-690c-4778-b618-c2459e32386c][Exedy Edrive]]
+- [[id:727a7d14-73a7-4d5b-a7eb-12d6c7d72aca][Hydrogen Gas station study]]
+** High duty vehicle
+*** [[id:aefe3cb7-d15f-4d53-8bc1-742f99e21391][High duty vehicle]]
+* VW Project 
+** VW design and input data [[F:\20.VW_TC\EST45100-01.pdf][ES-spec]]
+- Turbine torque : Medium 450Nm, Large 600Nm
+- OWC Torque : Large tr 2.08-> 311.5Nm
+- [[file+sys:F:\20.VW_TC\TVB-pendulum\RFQ\NVH_inputdata\AQ451-EG_TC_TM_data.xlsx][TVB Pendulum input data xlsx]] : Engine Torque 420Nm [[F:\20.VW_TC\TVB-pendulum\RFQ][Gear ratio and RFQ]]
+- [[file+sys:c:/Logseq/assets/TVM_Engine Torque.xlsx][TVM engine torque - 250Nm]]
+- TVM Lockup clutch torque : [[file+sys:C:\emacs\data\tvm-lockup data.xlsx][test data review]]
+  #+begin_src R
+    Rpi <- 64.9/2 ; Rpo <- 158.3/2 ; Rfi <- 137.6/2000 ; Rfo <- 167/2000; mu = 0.1293
+    Pa <- 190/1000; Pr <- 90/1000; P0 <- 150.33/1000 ; Pl <- 850/1000 ; dP = Pl-0.5*(Pa+Pr)
+    Rm = 2/3*(Rfo^3-Rfi^3)/(Rfo^2-Rfi^2); Para = pi*(Rpo^2-Rpi^2)
+    Tor = mu*Para*Rm*4*(Pl-P0)
+    mu = 452.9/Para/4/Rm/(Pl-P0)
+    sprintf("Tor = %.3f, mu= %.3f", Tor, mu)
+  #+end_src
+
+  #+RESULTS:
+  : Tor = 452.584, mu= 0.129
+- [[file+sys:c:/emacs/data/TVM fluid-performance.xlsx][TVM fluid performance]]
+- LC heat calculation from BWA
+  [[file+sys:F:\20.VW_TC\lockup\AQ301_LC_heat-capacity_by_BWA.pptx][AQ301 LC heat capacity]] |  [[file+sys:F:\20.VW_TC\lockup\AQ451_LC_heat-capacity_by_BWA.pptx][AQ451 LC capacity]]
+- D ring dsign data
+  |-----+------------------+---------------+----------------|
+  | TC  | items            | inside        | outside        |
+  |-----+------------------+---------------+----------------|
+  | TVM | width            | 3.95 +/-0.1   | 2.7 +/-0.1     |
+  |     | thickness        | 2.0 +/-0.1    | 1.6 +/-0.07    |
+  |     | inner dia        | 55.8 +/-0.5   | 148 +/-1.8     |
+  |     | home dia         | 58 +/-0.05    | 153.5 +/-0.05  |
+  |     | piston inner dia | 65 +0.046/0   | 158.3 +0.063/0 |
+  |     | home width       | 2.5 +/-0.05   | 2.0 +0.1/0     |
+  |-----+------------------+---------------+----------------|
+  | TVA | width            | 2.75 +/-0.07  | 2.85 +/-0.1    |
+  |     | thickness        | 1.6 +/-0.07   | 1.6 +/-0.07    |
+  |     | inner dia        | 71 +/- 1.0    | 166 +/-1.6     |
+  |     | home dia         | 73.1 +/-0.05  | 173 +/-0.05    |
+  |     | piston inner dia | 78.1 +0.046/0 | 178 +0.063/0   |
+  |     | home width       | 2.0 +/-0.05   | 2.0 +/-0.05    |
+  |-----+------------------+---------------+----------------|
+- Durability EWP code : x 500 times = 100,000km
+  see [[file+sys:C:\emacs\R-test][C:\emacs\R-test]]
+** informations Aisin
+- Damper structure : [[file+sys:./image/AQ301 Jetta Asin 2way.png][AQ301 Jetta Asin 2way damper]]
+** TVM Weight reduction
+:PROPERTIES:
+:ID:       85a888d2-5c0f-4d90-89a0-b95ceecbc011
+:END:
+*** Change parts review with KY Lee.
+: Sent email in 3/23 -- Recieved mail check 
+** VW Project issue resolve meeting in HTS(2022-11-28) 
+- [[file+sys:C:\emacs\data\VW AQ451 AQ301 Project Torque Converter Durability Issue_20221129_v3.pptx][VW AQ451 AQ301 TC durability report]]
+- for OWC: [[Why reactor eccentric wear??]], for Square rivet: [[Square rivet review and study]]
+- #Durability failure issue list#
+   | Application   | Lot        | issue                                                                                |
+   |---------------+------------+--------------------------------------------------------------------------------------|
+   | TVM Jetta FWD | 220509 081 | Square rivet failure by interference to turbine tab and Damper plate broken          |
+   |               |            | due to flateening in proto.                                                          |
+   | TVM Taos AWD  | 220316 065 | 77,000km done, Damper plate front fracture and Square rivet fulled out               |
+   | TVM Taos AWD  | 220900 069 | 5,000km but OWC Spining without Engine stalled -- Replaced after 220316 065          |
+   | TVA Atlas FWS | 220311 015 | 100% done without issue but OWC spining -- interference reactor to turbine           |
+   | TVA Atlas AWD | 220729 036 | After N to D, Idle rpm drop to 710rpm and engine torque rise up by 120Nm at 60,000km |
+
+** TVM issue list
+*** TVM P2 durability issue
+:PROPERTIES:
+:ID:       3abff29e-7940-444b-bd04-854a5744a34e
+:END:
+   1. Return spring mounting wear
+      New design F1=430Nm, F2=820Nm
+   2. Clutch teeth wear
+      Hardness reduction feasibility done : wear down 0.152 --> 0.087
+      Reappear at N1 sample test VW mode 23rd Feb. 2023 --> see [[~~TVM backup plate teeth wear~~]]
+   3. Out side spring end wear
+      Not appear at re-appearance test
+*** P2 seal ring test resuls
+ - [[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGqRZfCBQLwRTBXWtfjbwrKBNnL][P2 seal ring test result]]
+   : Damper leakage flow down near with Proto sample.
+   
+** TVM engine stall at 5000km
+  : 2 ea sample under this issue
+  : OWC free wheeling is potential root cause
+  : Reactor inside and inner race wear -- inner race contact to outer race and wear
+  : OWC roller has no wear.
+    Failure sample Dynamo test done : Tr down and Cf up [[https://mail.google.com/mail/u/0/?tab=rm&ogbl&zx=d1idx62xplkm#inbox/FMfcgzGqRZjdGmzDLXrQbwNvsnHsJmxJ][email]]
+  : input speed stall 511rpm(Cf 376, normal 22),0.4sr 778rpm(cf 162.4) tr=0.99 stall ~ all range
+  - *OWC is out of order by big wear*
+  - Why? what it root cause??
+  - see [[TVA OWC spining issue after 100% durability test done]]
+** TVA OWC spining issue after 100% durability test done
+*** [[file+sys:C:\emacs\data\VW_AQ301 TVM OWC Reactor wear issue.pptx][Reactor and OWC wear mechanism ppt]]
+  - AQ451 100% durability done but OWC spining issue shown
+   : Contact mark turbine shell between reactor shell side
+   :   OWC roller large waer with inner race
+   :   OWC torque capacity is lower?
+   :   This OWC used for Max 500Nm above??
+  - ``This wear made by Reactor free wheeling???``
+   : Roller wear caused by freewheel not locking condition
+   : But freewheel condition has not enough force to make wear
+*** =Why does not occure engine stall in other sample??=
+ : if OWC spining, engine should be stalled, so in this sample's OWC work well
+ : &OWC good work locking condition, but in the wheeling condition eccentric moving&
+*** =OWC Spining drag effect by fluid capacity after c.p=
+: engine rpm 2000rpm, and sr0.85, 0.99 CFD calculation
+: eccectric drag torque: e=1mm, mass=1kg 4500rpm mu=0.1 :: 22Nm
+- CFD Calculation results
+  | S.R      | rea speed |     Ti |     Tt |    Ts |         Cf |
+  |----------+-----------+--------+--------+-------+------------|
+  | 0.85     |       421 | -102.2 |   92.8 |  5.89 |     -25.55 |
+  |          |       800 | -78.25 |  74.63 |  0.18 |   -19.5625 |
+  | 0.997    |      1960 |   -4.5 |  -2.06 | -0.24 |     -1.125 |
+  |          |      1970 |   -4.3 |  -2.23 | -0.29 |     -1.075 |
+  |          |      1500 |    -13 |   4.06 |   3.1 |      -3.25 |
+  |          |      1400 |  -14.6 |    5.2 |   3.8 |      -3.65 |
+  | 4500rpm  |      3000 |  -80.4 |  30.88 |    21 | -3.9703704 |
+  | sr=0.997 |      4450 | -21.25 | -11.85 | -1.76 | -1.0493827 |
+  #+TBLFM: @2$6..@7$6=$3/4::@8$6..@9$6=$3/4.5^2
+: #Reactor rpm in coasting mode is neary same as 75% of turbine speed#
+*** =Why reactor eccentric wear?? -- centrifugal force calculation=
+ : first condition, some wear all inner surface
+ : &after wear amount bigger than moment of friction resistance, the eccentric wear occured&
+- Check points for this mechanism
+    *1) check reactor inner dimentiosn and eccentric dimension* [[file+sys:C:\emacs\data\VW AQ301 OWC spining issue_조사현황 221203.pptx][wear measurement ppt]]
+    *2) check inner race outside dimension*  [[file+sys:c:/emacs/image/OWC check dimension.excalidraw][owc check dimension excalidrae]]
+- Calculation centrifugal force by wear amount
+  30mm 3.8mm 2.2mm Ø194mm missing the weight, Al 2.7 \times 10^-6 kg/m^3, mass:6.772e-4kg
+  |      mass | eccentric |  rpm |       rps |      force |                         |
+  |-----------+-----------+------+-----------+------------+-------------------------|
+  | 6.7716e-4 |     0.097 | 6500 | 680.67783 |  30.433103 | imbalance force         |
+  |     0.007 |      0.01 | 1000 | 104.71967 | 0.76763465 | 7gcm force              |
+  |     0.003 |      0.01 | 6500 | 680.67783 |  13.899669 | 3gcm force              |
+  |     0.003 |    0.0654 | 6500 | 680.67783 |  90.903837 |                         |
+  |      0.94 |   0.00004 | 4000 | 418.87867 |  6.5972712 | initial mis-align force |
+  |      0.94 |    0.0001 | 6500 | 680.67783 |  43.552297 | 0.5mm wear force        |
+  |      0.94 |   0.00025 | 6500 | 680.67783 |  108.88074 | 0.25mm wear force       |
+  #+TBLFM: @2$2=0.194/2::$4=$3*2*3.14159/60::$5=$1*$2*$4^2
+
+- wear amount linear with {force \times velocity \times t}  and  force linear with time, &&Wear = \alpha \times t^2&&
+*** What kinds of force acting on the OWC reactor
+- centrifugal force by eccentricity (initial and wear)
+- bearing shelf alignment force
+- reactor parallelism force
+- Reactor inside home effect force
+- OWC normal force by eccentric
+****  ~~Reactor weight and moment by support position arm distance~~
+- center: 5.4mm-0.7mm from hub opposite side
+- shaft support position: diameter 30.4(-0.03/-0.05) ~ inner race dia 30.4(+/-0.01) and support length 6.5mm
+- 
+*** Reactor inside rolling and sliding mechanism
+- if withtout any force, inside rotating condition can be rolling but sliding by rolling coefficient is less than sliding.
+- if initial imbalance acting at one point, the centrifugal force not moving, some part sliding but other part not contact.
+- if centrifugal force by shaft clearance, the centrifugal force moving, all part rotating without sliding.
+- if anyforce moment acting, the sliding can be occurred. &&It can make wear&&
+- &centrifugal force > moment& = rolling whole around, minor wear
+- &centrifugal force < moment& = sliding whole around, wear
+- &imbalance force < moment& = one side sliding, one side wear // or acting force by system outside
+*** Bearing eccentric force effect
+- calculation Resistance force and Rolling force
+- #rolling coefficient bearing = 0.001~0.0015 and  sliding coefficient 0.1 #
+  [[file+sys:c:/emacs/data/bearing eccentric force and reactor wear.xlsx][reactor wear and bearing eccentric force~.xlsx]]
+*** Reactor pallarelism effect to radial force
+- calculation radial force with rpm and distance variation
+  
+*** Reactor groove width effect
+- groove 10.2mm make y+0.008mm more movement but, it's not big influence
+- But almost weared sample has eccentric wear around the home
+*** Why large waear in 5,000km failure
+- Preapre wear amount v.s test time(mileage %)
+- Which condition under the test, system outside force
+- This sample modified imbalance, by shown mass cutting zone
+*** ``Eccectric wear step by step``
+- Initial force(like a bearing load) make accelleration wear surround of inside diameter
+- After then, Mixed force of bearing load and centrifugal force applied, and this force make a eccentric wear then other samples.
+- More wear make a one position eccentric wear  
+*** ##Which condition make Easy to wear##
+- film thickness(pressure), \mu, friction coefficient, oil temperature
+- high hertz pressure : calculation hertz pressure
+- low contact normal force : big wear
+- low rotating moment : normal force bigger moment bigger
+- low oil flow for cooling or lubricant
+*** Review 5,000km failure mode raw data
+ revieved 2022.12.06 from HTS Test [[https://mail.google.com/mail/u/0/?tab=rm&ogbl&zx=h7p86sqbu2xb#inbox/FMfcgzGrbRQsNWkHrfTMpNsVgHCTgQzl][email link]]
+- Which point should be reviewed
+  1) How much temperature going up : Oil temperature and slip power(Toeque, slip)
+  2) Cooling capacity : Pin and Pout
+ 
+*** Reactor fluid moment calculation
+|      rpm |         |      speed |   Moment |         |                  |                |
+| impeller | reactor |      ratio | impeller | turbine | reactor pressure | reactor viscos |
+|----------+---------+------------+----------+---------+------------------+----------------|
+|     4500 |       0 |          0 |   -263.0 |   149.7 |            87.14 |           3.73 |
+|     4500 |    4400 | 0.97777778 |    -22.1 |   -13.3 |            -0.45 |          -0.03 |
+|     4500 |    4300 | 0.95555556 |    -25.9 |   -10.8 |              1.0 |           0.03 |
+|     4500 |    4200 | 0.93333333 |    -29.9 |    -8.0 |             2.56 |           0.09 |
+|     6500 |       0 |          0 |     -550 |   314.5 |            181.6 |            7.4 |
+|     6500 |    6400 | 0.98461538 |    -43.8 |   -29.3 |               -2 |           -0.1 |
+|     6500 |    6300 | 0.96923077 |    -49.4 |   -25.6 |             0.17 |          -0.01 |
+|     6500 |    6200 | 0.95384615 |    -55.1 |   -21.9 |             2.32 |           0.07 |
+|     6500 |    6100 | 0.93846154 |    -60.4 |   -18.0 |              4.6 |           0.15 |
+#+TBLFM: $3=$2/$1
+
+*** OWC Torque and Force calculation
+[[file+sys:~/data/owc force calculation.pdf][OWC force equation]]
+[[file+sys:c:/emacs/data/bearing eccentric force and reactor wear.xlsx][reactor wear and bearing eccentric force~.xlsx]]
+[[file+sys:C:\emacs\data\TVM OWC Torque life.xlsx][OWC Torque life xls]]
+  : this equation validated by ANSYS calculation
+  #+begin_src R
+    Tor = 150.0 ; Fs = 1.75 ; r=7.5*0.5*0.001 ; n=9.0 ; ri =47.325*0.5*0.001; mu=0.11*0.85; mr=0.001; ang=8.04/180.0*pi #ang=8.04
+    Fo = Tor/n/(ri+r+r*cos(ang)) ; Fi = Tor/n/ri
+    Fno = (Fo*(1+cos(ang))+Fs*cos(ang)-mr*(Fo+Fs)*sin(ang))/(mr*cos(ang)+sin(ang)+mr)
+    Fni = (Fi*(1+cos(ang))+Fs*cos(ang)-mr*(Fi+Fs)*sin(ang))/(mr*cos(ang)+sin(ang)+mr)
+    Fao = mu*Fno/Fo ; Fai = mu*Fni ; rat = Fai/Fi
+    sprintf("Fno = %.4f, Fni = %.4f, rat =%.4f", Fno, Fni, rat)
+  #+end_src
+  #+RESULTS:
+  : Fno = 7524.0637, Fni = 9893.2972, rat =1.3133
+   *Not slip but should be considered large normal force*  
+  
+- ~offset 0.1mm change from 8.04deg to 8.255deg and it can slip if friction less than 0.095~
+- ~Borgwarner design opinion~
+  : 마찰계수는 얼마로 하는가? 0.08로 계산한다. 고온은 마모문제가 되고, 저온은 유막 두께가 두껍기 때문에, 슬립 문제가 생긴다.(과거에 러시아에서 문제가 생겨서 저온에서 스톨을 뺀적이 있다.)
+  : 보그워너는 캠각을 9.0(4.5)도 정도 사용한다. 스프링 하중이 크기(보그워너는 0.6N,TVM은 1.75N) 때문에, 빠지지는 않을 것이다.
+  : 스프래그 타입은 캠각을 더 작게 사용한다.
+- Slip condition 
+  ~Inside contact surface can slip when friction coefficient down 16% or outer rage cam angle 0.5 deg up~
+  Normal force with angle 8.225 deg : &22262N&
+  Normal foece with angle 8.04 deg  : &22858N&
+  : different is only 600N and normal stress is only some
+   
+*** Oil film thickness calculation
+: It is related with Hertz contact pressure
+  equation :  h_0^(11/8) = 2.3664* \mu_0 \times U_m \times \alpha R^(1/2) / (W_L/E_L)^(1/8), E_L=pi/(1-v1^2)/E_1+(1-v2^2)/E_2)
+  see equation : [[https://www.tribonet.org/wiki/analytical-solution-of-reynolds-equation-grubins-approximation/][film thickness and Reynolds equation]]  [[https://www.tribonet.org/calculators/ehl-film-thickness-calculator-central-and-minimum-line-cylindircal-contact/][flim thickness calculation]]
+  see \alpha : [[https://www.tribonet.org/calculators/viscosity-calculator-barus-and-roelands/][pressure viscodity coefficient]]
+  see excel calculation sheet : [[file+sys:///C:\emacs\data\oil film thickness.xlsx][oil film thickness calculation.xlsx]]
+  #+begin_src R
+    r1=34.5*0.5 ; r2=-34.6*0.5 ; E1=210000 ; E2=72000 ; v1=0.3 ; v2=0.33 ; mu = 0.005; alpa=16e-9
+    W = 20 ; L=5.5 ; WL = W/L*1000 ; rpm=1000 ;e=0.1/1000 ; omg= rpm/60*2*pi ;W = (0.007*0.01+0.94*e)*omg^2
+    req = 1/(1/r1+1/r2)/1000; Eeq=pi/((1-v1^2)/E1+(1-v2^2)/E2)*1e6
+    Um = rpm/60*2*pi * (r1/1000); h0 =(2.3664*mu*Um*alpa*sqrt(req)/(WL/Eeq)^(1/8))^(8/11)
+    sprintf("Oil film thickness = %.4E, W= %.4f", h0, W)
+  #+end_src
+  #+RESULTS:
+  : Oil film thickness = 1.2560E-06, W= 1.7985
+
+*** Hertz pressure calculation
+: r1 : roller radius, r2 : cylinder radius inside contact (-) sign.
+: E : youngs modulus, v : poisson ratio, l : contact length
+  see link https://www.mesys.ch/calc/hertz.fcgi?lang=en or https://www.sciencedirect.com/topics/engineering/hertz-equation
+  [[file+sys:./image/hertz contact pressure.png][hertz contact pressure.png]]
+#+begin_src R
+  #roller 7.5, reactor 34.5, OWC 47.325, reactor L=5.5, roller L=8.65, E=69040(AL)
+  r1=34.5*0.5 ; r2=-34.6*0.5 ; L=5.5 ; E1=80000.0; E2=200000.0; v1=0.3 ; v2=0.3
+  F = 100
+  b = sqrt((4*F*((1-v1^2)/E1+(1-v2^2)/E2))/(pi*L*(1/r1+1/r2))) #1/Rm = 1/R1 +/- 1/R2
+  Px = 2*F/pi/b/L
+  sprintf("width= %.4f, Pressure= %.4f",b, Px)
+#+end_src
+#+RESULTS:
+: width= 1.4834, Pressure= 7.8032
+-------------------------------------------------------------------------------------
+- for Roller OWC can use below 3300Mpa, and sprag OWC 2500Mpa
+ 
+*** N1 sample reactor OWC wear
+- P2 N1 sample durability 100% done : reactor wear shown
+- OWC only one Roller wear
+- Ractor eccentric wear around 1.0mm 
+  [[file+sys:c:/emacs/image/OWC roller take off speed.excalidraw][OWC roller take off speed equation]]
+  #+begin_src R
+    Fs = 1.75 ; ang = 8.04/180*pi ; m = 0.003347 ; r = (47.325/2+7.5/2+0.0)/1000
+    Fc = Fs *cos(ang)/sin(ang)
+    rpm = (Fc/m/r)^0.5*60/2/pi
+  #+end_src
+
+  #+RESULTS:
+  : 3509.05080140171
+
+*** Feasibility test condition
+- Reactor OWC take off condition : above 3300rpm -- [[file+sys:C:\emacs\data\bearing eccentric force and reactor wear.xlsx][OWC design review excel]]
+- [[file+sys:C:\emacs\data\TVM OWC spining issue_측정 결과 비교_221212.xlsx][feasibility test measurement]]
+  1) gap more than r0.06mm sample has roller feeling, but 0.07mm is OK
+  2) But below than r0.04mm sample all no feeling
+
+*** What is should do
+- imbalance weight
+- 대부분 발란스 수정후에 2~3gcm 정도의 불균형량이 존재한다고 하면 6500rpm에서 24N 정도 원심력이 생긴다.
+  리액터 토크가 100Nm 정도 걸리고, 축 어긋남이 0.5mm 생기는 경우, 하중은 28N 정도 생긴다.
+  따라서, 편마모가 생길 가능성이 높아진다.
+- 
+  [[file+sys:c:/emacs/image]]
+*** Reactor Key effect
+**** MP 0.06mm machined sample was weared but TVM has 0.18mm gap sample did not wear ?
+- Weight compare MP and TVM
+- Side effect No issue or not -- check for this effect??
+*** OWC FEM -- Outer race rotating angle with torque
+- [[file+sys:./data/Roller OWC FEM.pptx][Roller OWC FEM.pptx]]
+** P2 Quality confirm durability failure issue(95%)--reaction shaft full out
+  : VW durability 95% done and failed
+  : Retainer coaking released or weared and wheeling against outerrace > it make wear
+  : Reaction shaft fushed inner race > Retianer < bearing retaining -- it make sliding retianer between outer race.
+  : It seems Reaction shaft pushed innerace.    
+*** What is the root cause(Shaft or Square rivet)
+   : Rivet should be robust in process
+   : Which one is first failure(root cause) between Square rivet and Reaction shaft
+ - Rivet is first failure
+   : After rivet fulled out > Movement radial directions by imbalance > input shaft moving radial direction and acting to
+   : reaction shaft > reaction shaft fulled out.
+ - Reaction shaft is first failure
+   : Why rection shaft fulled out ?? It is difficults to easy explanation.
+   : Input shaft fulled out > Reaction shaft fulled out > pushed inner race > damper tilting and rivet failure
+   !It is very high Posibility the root cause is rivet failure!
+    
+** Square rivet review and study
+ - [[ email][see email from HTS]]
+   : In normal condition, square rivet outerside more high tighteened by rivet head triangle shape.
+   : ~Only proto sample has this issue??~
+ - 770000km : by damper plate broken the square rivet fulled out.
+ - P2 quality validation 95% failure : by reaction shaft misalignment or square rivet fulled out at first
+   : ~~Need to square rivet improvement~~
+*** How to improvement of square rivet strength
+- Square rivet thickness increasement around +0.0?mm
+  : Need to measurement Proto and P2 sample - Hole size and Rivet dimension
+** D-ring design review
+ - [[c:/emacs/VW design-data.org][VW design data.org]]
+   Drawing : [[file+sys:c:/emacs/image/Dring-small.png][Dring-small]]  [[file+sys:c:/emacs/image/dring-large.png][Dring-large]]  [[file+sys:F:/20.VW_TC/AQ451-EVO5/piston-key-issue/piston-key.xlsx][piston inertia]]  [[file+sys:c:/logseq/assets/TVM_Engine torque.xlsx][TVM engine torque]]  [[file+sys:F:\material property\rubber\rubber-from-ansys.xlsx][rubber materials]] [[file+sys:F:\20.VW_TC\TVB-pendulum\RFQ\NVH_inputdata\AQ451-EG_TC_TM_data.xlsx][TVA enginr torque]]
+   Calculation : [[file+sys:c:/logseq/assets/Dring-compression.xlsx][Dring compress calc xlsx]]  [[file+sys:c:/emacs/image/Dring pressure.excalidraw][Dring deform by centrifugal]]  [[file+sys:c:/emacs/image/Dring compress ratio.excalidraw][Dring compress factor]]    
+*** Contact drag force[Torque] compress range study
+ : Calculation contact pressure by FEM analysis
+ : Material of rubber young's modulus 80Mpa and shear ratio 0.33
+- Piston inertia moment : 8.8Nm
+  | engine torque | Primary inertia | Piston inertia | Inertia torque |
+  |---------------+-----------------+----------------+----------------|
+  |           508 |             0.1 |        0.00173 |         8.7884 |
+- @But in this case Piston not rotating in normal compression, so piston key impact can not happened@
+- Try down E10Mpa then Force down multufly 10/80.
+- &Reasonable E value is 10Mpa& : then Drag torque down below to inertia torque
+- Then radial eccentricity  @@TVM: 0.055mm TVA: 0.062mm@@ <-- *minimum compress valie should be greater than this* 
+ : TC ass'y imbalance 400gcm with weight 18kg --> piston 0.43kg imbalance=9gcm = 0.2mm eccentricity
+  |-----+--------+------+----------+--------------+-------------------+---------------+--------------------|
+  |     | mass   |  rpm | eccentri | Radial force | compression value | Engine torque | Pst-inertia-moment |
+  |-----+--------+------+----------+--------------+-------------------+---------------+--------------------|
+  | TVM | 0.43kg | 6500 | 0.2mm    | 40N          | 0.055mm           | 508Nm         | 8.8Nm              |
+  | TVA | 0.55kg | 6500 | 0.2mm    | 51N          | 0.062mm           | 728Nm         | 19.9Nm             |
+  |-----+--------+------+----------+--------------+-------------------+---------------+--------------------|
+- *Final results* : !!TVM Dring compression is OK!! : Minimum compress setting TVM 0.08(inner), TVA0.08(Outer)
+
+*** D ring extension amount by pressure
+- radial extension calculation
+  #+begin_src R
+    E=10 ; g=0.55 ; t=1.6 ; w = 2.7
+    Pre = 0.1 ; dt = Pre/E*t ; dw = dt/t*g*w
+    w2 = w+dw
+    sprintf("delta w = %.3f, final width = %.3f", dw, w2)
+  #+end_src
+
+  #+RESULTS:
+  : delta w = 0.015, final width = 2.715
+  - Table equation
+    |  E | p-rat |   t |   w | P[Mpa] |    dt |      dw |      w2 |
+    |----+-------+-----+-----+--------+-------+---------+---------|
+    | 10 |  0.47 | 1.6 | 2.7 |    0.2 | 0.032 | 0.02538 | 2.72538 |
+    | 10 |  0.55 | 1.6 | 2.7 |    0.1 | 0.016 | 0.01485 | 2.71485 |
+    | 10 |  0.33 | 1.6 | 2.7 |    0.2 | 0.032 | 0.01782 | 2.71782 |
+    #+TBLFM: $6=$5*$3/$1::$7=$6*$2*$4/$3::$8=$4+$7
+
+*** D-ring design review with POS
+   [[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/KtbxLzGSwSkKnlshnVfGvLLwfpddqRqNmL][Email from POS]] : [[file+sys:C:\emacs\data\첨부1_20220511_평화오일씰공업_카펙발레오 AQ301 TVM-G 구동계 17차 717cycle  중단품 고품(D-Ring 102534011_10204505) 분석보고서_송부 (1).pptx][POS 고품분석 보고서]] - [[file+sys:C:/emacs/data/첨부2_1010180361(102534011)_재질 성적서-pdf.pdf][Small]] - [[file+sys:C:\emacs\data\첨부2_1012880321(10204505)_재질 성적서-pdf.pdf][Large]] - [[file+sys:C:\emacs\data\첨부3_디링 설계 특성치 검토.pdf][Design property]]
+  1. POS cosidered volume reduction by extention
+  2. *The minumum value of compression 0.0156mm is too small??* 
+  3. POS calculate extention ratio use only Do/Di
+  4. Shore hardness 68 and 70 is OK -- from web search fixing 70~90, moving 60~80
+  5. POS design review data  
+    : Dring dimension
+    |     Max |    Min | Design review     |  Min | Mean |  Max |
+    +---------+--------+-------------------+------+------+------|
+    | 158.363 |  158.3 | Extension ratio   |  2.5 |  3.7 |  5.0 |
+    |  153.55 | 153.45 | Compression ratio |  0.6 |  7.1 | 13.0 |
+    |     2.8 |    2.6 | packing density   | 65.3 | 75.7 | 87.6 |
+    |    1.67 |   1.53 |                   |      |      |      |
+
+    : Design review from POS calculation data
+    | Dring Di | extension ratio | value[mm] | Dinner | calculation |
+    |----------+-----------------+-----------+--------+-------------|
+    |    146.2 |             2.5 |     3.655 | 153.55 |   1.0502736 |
+    |      148 |             3.7 |     5.476 |  153.5 |   1.0371622 |
+    |    149.8 |             5.0 |      7.49 | 153.45 |   1.0243658 |
+
+    : Compression value Range
+    |       | compression ratio | width | real value |
+    |-------+-------------------+-------+------------|
+    | large |               0.6 |   2.6 |     0.0156 |
+    |       |              13.0 |   2.8 |      0.364 |
+    | Small |               3.2 |  3.85 |     0.1232 |
+    |       |              11.4 |  4.05 |     0.4617 |
+    #+TBLFM: $4=$2*$3/100
+    *Too small 0.0156mm ??* -- POS answered bigger than 0 will be OK
+- Calculation extension and overlap compression -- ##D ring large##
+   #+begin_src R
+     t = 1.6 ; wn = 2.7-0.1 ; Rin = (148-1.8)/2 ; Ri2n = (153.5-0.05)/2 ; Rox = (158.3+0.063)/2 ; pr = 1.02
+     ern = (Ri2n-Rin)/(Rin+0.5*wn) ; dwn = ern*pr*wn ; w2n = wn-dwn ; spacen = Rox-Ri2n 
+     t = 1.6 ; wx = 2.7+0.1 ; Rix = (148+1.8)/2 ; Ri2x = (153.5+0.05)/2 ; Ron = (158.3+0.0)/2
+     erx = (Ri2x-Rix)/(Rix+0.5*wx) ; dwx = erx*pr*wx ; w2x = wx-dwx ; spacex = Ron-Ri2x 
+     sprintf("Width, Space, Gap, Min =(%f,%f,%f,%f%%), Max=(%f,%f,%f,%f%%)",w2n, spacen, w2n-spacen, (w2n-spacen)/wn*100, w2x, spacex, w2x-spacex, (w2x-spacex)/wx*100)
+   #+end_src 
+
+   #+RESULTS:
+   : Width, Space, Gap, Min =(2.470786,2.456500,0.014286,0.549473%), Max=(2.729817,2.375000,0.354817,12.672018%)
+
+
+- Calculation extension and overlap compression -- ##D ring small##  
+   #+begin_src R
+     t = 2.0 ; wn = 3.95-0.1 ; Rin = (55.8-0.5)/2 ; Ri2n = (58-0.05)/2 ; Rox = (65.0+0.046)/2 ; pr = 1.02
+     ern = (Ri2n-Rin)/(Rin+0.5*wn) ; dwn = ern*pr*wn ; w2n = wn-dwn ; spacen = Rox-Ri2n 
+     t = 2.0 ; wx = 3.95+0.1 ; Rix = (55.8+0.5)/2 ; Ri2x = (58+0.05)/2 ; Ron = (65.0+0.0)/2
+     erx = (Ri2x-Rix)/(Rix+0.5*wx) ; dwx = erx*pr*wx ; w2x = wx-dwx ; spacex = Ron-Ri2x 
+     sprintf("Width, Space, Gap, Min =(%f,%f,%f,%f%%), Max=(%f,%f,%f,%f%%)",w2n, spacen, w2n-spacen, (w2n-spacen)/wn*100, w2x, spacex, w2x-spacex, (w2x-spacex)/wx*100)
+   #+end_src 
+   #+RESULTS:
+   : Width, Space, Gap, Min =(3.674065,3.548000,0.126065,3.274418%), Max=(3.930211,3.475000,0.455211,11.239784%)
+
+   
+
+   #+begin_src R
+     t = 2.0 ; w = 2.7 ; Ri = (148)/2 ; Ri2 = (153.5)/2 ; Ro = (158.3+0.0315)/2 ; pr = 1.01
+     er = (Ri2-Ri)/(Ri+0.5*w) ; dw = er*pr*w ; w2 = w-dw ; space = Ro-Ri2 
+     sprintf("Width, Space, Gap =(%f,%f,%f,%f%%)",w2, space, w2-space, (w2-space)/w*100)
+   #+end_src 
+
+   #+RESULTS:
+   : Width, Space, Gap =(2.600474,2.415750,0.184724,6.841646%)
+
+   
+
+
+- ANSYS calculation results
+  | inside-dis | out-results | ini-out-radius | piston inner dia | overlap | initial width | compresstion ratio | Piossion ratio |
+  |------------+-------------+----------------+------------------+---------+---------------+--------------------+----------------|
+  |        1.1 |      1.0321 |          31.85 |          32.5115 |  0.3706 |          3.95 |        0.093822785 |           0.45 |
+  |            |      1.0473 |          31.85 |          32.5115 |  0.3858 |          3.95 |        0.097670886 |           0.33 |
+  |            |       1.027 |          31.85 |          32.5115 |  0.3655 |          3.95 |        0.092531646 |           0.49 |
+  #+TBLFM: @2$3=(55.8+3.95*2)/2::@2$4=(65+0.023)/2::$5=($3+$2)-$4::$7=$5/$6
+
+- &&durability finished sample&&
+   #+begin_src R
+     t = 2.02 ; wn = 3.95 ; Rin = (56.01)/2 ; Ri2n = (58-0.05)/2 ; Rox = (64.9+0.046)/2 ; pr = 1.01
+     ern = (Ri2n-Rin)/(Rin+0.5*wn) ; dwn = ern*pr*wn ; w2n = wn-dwn ; spacen = Rox-Ri2n 
+     t = 2.02 ; wx = 3.95 ; Rix = (56.01)/2 ; Ri2x = (58+0.05)/2 ; Ron = (64.9+0.0)/2 
+     erx = (Ri2x-Rix)/(Rix+0.5*wx) ; dwx = erx*pr*wx ; w2x = wx-dwx ; spacex = Ron-Ri2x 
+     sprintf("Width, Space, Gap, Min =(%.3f,%.3f,%.3f,%.3f%%), Max=(%.3f,%.3f,%.3f,%.3f%%)",w2n, spacen, w2n-spacen, (w2n-spacen)/wn*100, w2x, spacex, w2x-spacex, (w2x-spacex)/wx*100)
+   #+end_src 
+
+   #+RESULTS:
+   : Width, Space, Gap, Min =(3.821,3.498,0.323,8.175%), Max=(3.814,3.425,0.389,9.855%)
+
+   #+begin_src R
+     t = 1.6 ; wn = 2.67 ; Rin = (149.29)/2 ; Ri2n = (153.5-0.05)/2 ; Rox = (158.3+0.063)/2 ; pr = 1.01
+     ern = (Ri2n-Rin)/(Rin+0.5*wn) ; dwn = ern*pr*wn ; w2n = wn-dwn ; spacen = Rox-Ri2n 
+     t = 1.6 ; wx = 2.67 ; Rix = (149.29)/2 ; Ri2x = (153.5+0.05)/2 ; Ron = (158.3+0.0)/2 
+     erx = (Ri2x-Rix)/(Rix+0.5*wx) ; dwx = erx*pr*wx ; w2x = wx-dwx ; spacex = Ron-Ri2x 
+     sprintf("Width, Space, Gap, Min =(%.3f,%.3f,%.3f,%.3f%%), Max=(%.3f,%.3f,%.3f,%.3f%%)",w2n, spacen, w2n-spacen, (w2n-spacen)/wn*100, w2x, spacex, w2x-spacex, (w2x-spacex)/wx*100)
+   #+end_src 
+
+   #+RESULTS:
+   : Width, Space, Gap, Min =(2.596,2.457,0.140,5.231%), Max=(2.594,2.375,0.219,8.217%)
+- !!inside D ring New concept!!
+   #+begin_src R
+     t = 2.0 ; wn = 3.95-0.1 ; Rin = (55.8-0.5)/2 ; Ri2n = (58-0.05)/2 ; Rox = (65.25+0.046)/2 ; pr = 1.02
+     ern = (Ri2n-Rin)/(Rin+0.5*wn) ; dwn = ern*pr*wn ; w2n = wn-dwn ; spacen = Rox-Ri2n 
+     t = 2.0 ; wx = 3.95+0.1 ; Rix = (55.8+0.5)/2 ; Ri2x = (58+0.05)/2 ; Ron = (65.25+0.0)/2
+     erx = (Ri2x-Rix)/(Rix+0.5*wx) ; dwx = erx*pr*wx ; w2x = wx-dwx ; spacex = Ron-Ri2x 
+     sprintf("Width, Space, Gap, Min =(%f,%f,%f,%f%%), Max=(%f,%f,%f,%f%%)",w2n, spacen, w2n-spacen, (w2n-spacen)/wn*100, w2x, spacex, w2x-spacex, (w2x-spacex)/wx*100)
+   #+end_src 
+
+   #+RESULTS:
+   : Width, Space, Gap, Min =(3.674065,3.673000,0.001065,0.027665%), Max=(3.930211,3.600000,0.330211,8.153365%)
+
+
+*** Thermal expansion
+- thermal expansion coefficient steel:10.8~12.5, rubber :80 (or round 200??) \times 10^-6 m/m\deg C : refer [[https://www.engineeringtoolbox.com/linear-expansion-coefficients-d_95.html][thermal expansion data]]
+  Volume expansion = 3 \times linear expamsion
+*** Insert condition
+: Max overlap condition insert considered
+: In assemble, outside Dring is first contact : 0.4mm overlap and misalignment 0.3mm should be considered
+  In current design, Outside Dring would be jammed
+*** Closing time delay -- all temperature
+- Same pressure 
+** Lockup abnormal released in N1 sample
+  : 3stage and 4 stage issued
+  : slip rpm near 100rpm
+  : slip duration around 0.5sec by DA pressure up automatically
+
+** Piston key override review
+  : drawing review and check out -- OK 0.99mm overlap
+  - Another concept review -- example bevel spring
+*** Nara MND 2nd TO results
+ SPEC : 0.71 ~ 1.6, Actual 0.8mm overlap , 1st TO was -0.363mm
+ Sample measurement was +0.344, +0.507mm    
+
+** Taos CPA design
+- Damper Layout fix -- Space fix
+- CPA Design study with MonoSpacer model.
+** TVB Clatter noise
+[[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGqRZfCTBMDpXTzVQkNhmvwmfTp][vehicle test schedule email]]
+  - CPA effect test with LC close rpm 1000, 1050, 1100, 1150 
+    : 최종 종결된 것으로 판단됨.
+** TVB T1 sample issue review
+- [[file+sys:C:\emacs\data\VW_TVB-T1 EVO5 고품 분석 보고서_Lot No. 220719 007_r2.pptx][고품분석 보고서]] / [[file+sys:C:\emacs\data\VW TVB-T1 EVO5 내구완료품 리뷰.pptx][my review results]]
+- Damper spring wear outside 0.2mm inside 0.3mm
+  : for inside spring: support plate !gap reduction! for spring outside support
+  : for outside spring: !re-define criteria for curved spring!
+- Reactor inner race contact diameter wear : @@gap: 0.41mm diameter@@ initial dimension would be mean gap 0.095mm than increased gap 0.315mm
+  : It smaller than TVM issued sample.(increased gap 0.315mm(r+0.1575)
+  : !!Contact surface increasing effect by declined contact zone!!
+- Lockup m-v NG :
+  : Slope negative is it NG real condition
+- Pendulum roller wear to mass surface
+  : Roller side center tip make a resistance with mass and make a tilting --> make wear on the mass surface
+- Inside D-ring extension -- It make a moving drag force
+- Outside D-ring bitting by like a jammimg in assembly
+- Contact mark on the bearing is shift to inside
+*** TVB return spring wear with piston
+: see google keep image
+: It seems very small wear on the piston side but cover side has a few depth(less than 0.1mm)
+- Calculation spring inertia and rotatng with itself inertia
+  #+begin_src R
+    Te = 730 ; Ms = 0.0383 ; OD=120 ; ID=104
+    Rs = 0.5*(ID+OD)/1000
+    Is = Ms*Rs^2 ; Ip = 0.104
+    Ts = Te/Ip*Is
+    Td = 457*Rs*0.1*2
+    sprintf("Apply to spring torque = %.3f, Drag torque = %.3f", Ts, Td)
+  #+end_src
+
+  #+RESULTS:
+  : Apply to spring torque = 3.372, Drag torque = 10.237
+  
+** Pendulum TVB durability failure in VPH test
+- [[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGrbbwWxlqjzCBLPMRVSvbLgPTn][results email from VPH]]
+- Rivet stress Calculation sheet review -- Not reasonable axial impact stress
+- ~~Riveting stress analysis~~
+  [[file+sys:C:\emacs\data\C:\emacs\data\VW AQ451 Pendulum rivet failure issue study.pptx][related ppt files]] , [[file+sys:C:\emacs\data\rivet-failure.xlsx][stress calculation xlsx]]
+  : test code uprade will be needed
+  *1) Rivet rubber hole effect*
+     : rubber hole in mass make loose of thightening of rivet
+*** Pendulum Rivet Re-calculation
+- Angle and Torque deviation calculation with CEPN standard
+- Pendulum rivet diameter review
+** Low temperature drag
+- VW Large TC https://mail.google.com/mail/u/0/?tab=rm&ogbl&zx=u5ra7rjlehx3#inbox/FMfcgzGrbvGPZNXLpDmxjmsGQGdpnzsw
+** PV TVM Damper dynamic durability test failure
+:PROPERTIES:
+:ID:       3b4b756d-08f4-428e-9039-fdba36abf5c4
+:END:
+- Outside spring broken after 2 milion cycle.
+- Send sample to BKL and review the root cause.
+** ~~TVM N1 OWC issue happen again~~
+:PROPERTIES:
+:ID:       d09a1e7a-da40-45b8-8a9d-16bf6e7f487e
+:END:
+*** Sample status
+  - Roller and Inner race peeling
+    : Locking load -> thin flim thickness -> solid contact and slip
+    : Long time freewheeling -> Temperature up -> flim thickness down -> solid contact
+    : Roller moving hesitation by some reasone -> Abnormal radial force -> 
+  - Reactor inner wear
+  - Normal force x speed calculation
+    : 3500rpm floating speed -> 1750rpm is max value
+  - Coasting mode 에서 리액터가 정렬이 어떻게 되는가?
+  - Torque 영향성, 코스팅 조건에 대한 영향성 검토
+  - +/- 50rpm,
+- New design review
+  - Inner race chamfer smaller c0.2 Max -- Roller round R0.25~R0.5
+*** Mechanism
+  - Shaft tilting >  Reactor inside Jamming --> wear --> 2nd support contact --> mis alignment
+- Check points
+  - Inner race inner diameter measurement.
+    : 30.38xmm ~ 30.??mm -- Shaft out diameter 30.384 -0.03/-0.05 -- need detail check
+*** ~~Calculation wear amount~~
+  #+begin_src R
+    mass <- 0.9 ; ecc <- 0.03/1000 ; me <- 30/1000 ; rps <- 6500/60*2*pi ; alpa <- 1e-25
+    Fub <- me*0.01*rps^2 ;  b <- 1.5/1000 ; L <- 0.5*5.0/1000 ; rat <- 1.45 #4.8 or 1.45
+    time <- 0; turn <- 0 ; Pre <- 0 ; del <- 0
+    x <- data.frame()
+    x <- rbind(x, c(turn, time/60/60, Pre/1e6, del*1000, ecc*1000))
+    names(x) = c("turn","time","Press","delta","eccen")
+
+    repeat {
+      turn <- turn +1
+      time <- time + 2*pi/rps
+      Ft <- Fub + mass*ecc*rps^2
+      Pre <- Ft/b/L*rat
+      del <- alpa * Pre +ecc*3e-7
+
+      if(turn %% 1000 == 0 ) {
+      x <- rbind(x, c(turn, time/60/60, Pre/1e6, del*1000, ecc*1000))}
+      ecc <- ecc + del
+
+      if( time/60/60 >= 20)
+        break
+      }
+    write.table(x, file='./R-test/test.txt', row.name=FALSE)
+
+  #+end_src
+
+  #+RESULTS:
+
+- remove zero data
+  #+begin_src R
+    x <- read.table(file='./R-test/21.txt', header=FALSE)
+    y <- data.frame()
+    n <- nrow(x)
+    for (i in 1:n) {
+      if(x[i,1] != 0) y <- rbind(y, x[i,1])
+      }
+    write.table(y, file='./R-test/21.out', row.name=FALSE)
+
+  #+end_src
+
+  #+RESULTS:
+  
+- Calculation wear with actual speed
+  #+begin_src R
+    mass <- 0.9; ecc <- 0.03/1000 ; me <- 7/1000 ; alpa <- 2e-19
+    b <- 1.5/1000 ; L <- 0.5*5.0/1000 ; rat <- 4.8 #4.8 or 1.45
+    Pre <- 0 ; del <- 0
+    y <- read.table(file='./R-test/1.out', header=TRUE)
+
+    cyc <- 500
+    i <- 1; n <- 1
+    nr <- nrow(y)
+    # x <- data.frame()
+
+    repeat {
+      rps <- y[i,1]/60*2*pi
+      turn <- y[i,1]/60*0.1
+      Ft <- me*0.01*rps^2 + mass*ecc*rps^2
+      Pre <- Ft/b/L*rat
+     # del <- (exp(ecc)-1)*1e-7 + 1e-15*Pre^(1/11)
+     # del <-  9e-12*Pre^(1/11)
+      del <- 2e-7*ecc
+      ecc <- ecc + del*turn
+
+      if(ecc*1000 > 0.2) break
+     # x <- rbind(x, c(ecc*1000))
+
+      if(i == nr & n == cyc) break
+      else if(i == nr) {
+        i <- 1
+        n <- n+1 }
+      else
+        i <- i+1
+      }
+
+    # write.table(x, file='./R-test/test.txt', row.name=FALSE)
+    sprintf("ecc= %.4f, n= %d, i = %d", ecc*1000, n, i)
+
+  #+end_src
+
+  #+RESULTS:
+  : ecc= 0.1559, n= 500, i = 4291
+  
+*** Reproduction test and improvement test
+- [[https://mail.google.com/mail/u/0/?tab=rm&ogbl&zx=9j41rozbvp9s#inbox/FMfcgzGrcXmpZHRGMnsLrjWDmNcFStMN][Reproduction test results for customer]]
+- [[file+sys:./data/230222_VW_TVM_OWC_이슈 재현 평가 이력(Over run test).pptx][230222_VW_TVM_OWC_이슈 재현 평가 이력(Over run test).pptx]]
+- [[file+sys:./data/리액터마모내구_별실다판.xlsx][리액터마모내구_별실다판.xlsx]]
+: 양단 지지 사양 100시간 내구후 전혀 이상 없음 2023-03-21
+*** Taos EWP test data review -- Why is it happen in Taos
+- [[https://mail.google.com/mail/u/0/?tab=rm&ogbl&zx=9j41rozbvp9s#search/Taos/FMfcgzGrcXkWTvXTdlVmmVwQfBbGxrxH][Taos 130kw SBS2.0 내구 fail 대응 검토 email]]
+- Jetta and Taos EWP mode comparison : [[file+sys:./data/VW Jetta and Taos EWP mode comparison-v1.pptx][VW Jetta and Taos EWP mode comparison-v1.pptx]] -- Not correct data
+- Jetta and Taos EWP mode comparison 2 : [[file+sys:./data/20230223 VW Jetta and Taos EWP mode comparison-2nd.pptx][VW Jetta and Taos EWP mode comparison-2nd.pptx]], [[file+sys:./R-test/taos-jetta-0.1sec-2.xlsx][raw data]]
+  - How to calculation Reactor torque : [[file+sys:./data/20230306-Reactor torque calculation.pptx][Reactor torque calculation.pptx]]
+- Atlas EWP mode analysis : [[file+sys:./data/20230224 VW Atlas EWP mode.pptx][20230224 VW Atlas EWP mode.pptx]]
+*** VW meeting materials in 28th Feb. 2023
+- [[file+sys:C:\emacs\data\2023-02-27 VW AQ301_Torque converter_OWC Issue_VKK_Updated_v2.pptx][First matrials ppt]]
+- 편측 쏠림이 과도하면서 이너레이스 롤러까지도 접촉을 해서 마모가 생긴다.
+- 롤러가 오버랩되는 량이 0 이하로 되다 보니, 기능상실이 생겼다.
+- 원래 리액터의 틈새 스팩은 10에서 35 미크론이 스펙인데, 그 이상으로 공급 되었다.
+*** Over-run test status
+- Final improvement results : after 81hrs faiure [[file+sys:./data/230224_VW_TVM_OWC_이슈 재현 평가 이력(Over run test).pptx][230224_VW_TVM_OWC_이슈 재현 평가 이력(Over run test).pptx]]
+*** N1 sample(selection for small gap of reactor and innerrace) 100% done : reactor wear but no malfuction OWC
+- inner spring wear amount 0.315(dead turns),0.295(working turns)
+  email from Yoontae.kyung:[[https://mail.google.com/mail/u/0/?tab=rm&ogbl&zx=ayhkmz7bfpym#inbox/FMfcgzGrcjSTSmRCPFsHZxDjRpDMzdGg][email brief report]]  , [[file+sys:./data/VW AQ301 N1 내구 완료품 분석 보고서_Lot No.221200070_(송부).pptx][VW AQ301 N1 내구 완료품 분석 보고서_Lot No.221200070_(송부).pptx]]
+*** Side effect test
+- Noise test results : reactor jamming coourrance [[https://mail.google.com/mail/u/0/?tab=rm&ogbl&zx=28ws1tia76k5#inbox/FMfcgzGrcrmdThBCRDLFbJMRXldWxCxG][see email from SCPark]]
+** ~~Preparing DV and PV status~~
+DEADLINE: <2023-03-27 Mon>
+:PROPERTIES:
+:ID:       d826e3ce-a275-4797-97ac-834f0ffdced8
+:END:
+- make sample send by 3/21 6ea --> 4ea sent in 3/21 by hub not enough and performance tr low than limit.
+- Additional sample 3/27 10piece
+** ~~TVM Piston moving time delay in low temperature~~
+: DA 압력이 지연되는 문제는 씰링의 문제 일수 도 있음... 과거 시험결과를 보면 씰링이 느리게 움직이는 문제가 있었음.단, 슬립을 주면 사라짐.
+: POS Dring effect or piston return spring 걸림 형상적인 검토
+: 온도에 영향을 받지 않을 수도 있다. 저온에도 나오고, 고온에서도 나온다.
+  최종적으로 양산 공정+유신 스프링 적용+커버 형상 변경으로  Rom Fix 되었고, 응답 시간을 단축 시킨다면, ##현재 롬에서 문제가 생길것으로 우려된다.## 
+*** Issue and status
+- recieved email : [[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGqQvxkQWHlBHvPsHKmtpkKjvSC][email-2021.10/14]]
+- raw data from HTS :  [[https://mail.google.com/mail/u/0/?tab=rm&ogbl&zx=m7o65oxuhffh#inbox/FMfcgzGqQvxkQWHlBHvPsHKmtpkKjvSC][raw data from HTS JiHwan WOO]] [[file+sys:c:/logseq/assets/TC압력 떨림 문제_Raw Data_221020.xlsx][file1 xlsx]]  [[file+sys:c:/logseq/assets/VW_AQ301_P2_TC압력_떨림문제발생_221006.pptx][ppt file]]
+- raw data from HTS 2nd : [[https://mail.google.com/mail/u/0/?tab=rm&ogbl&zx=fagmw494cfck#inbox/FMfcgzGqRQBpdbbhzFRsLZfdqpPWhLzl][email from HTS]] / [[file+sys:c:/logseq/assets/221103_AQ301_P2_정규품_Raw Data.xlsx][AQ301 P2 raw xls]] / [[file+sys:c:/logseq/assets/221103_AQ451_SBS2.1_리크개선품_Raw Data.xlsx][AQ451 leakage upgrade1 xlsx]]
+- Piston response raw data : [[file+sys:c:/logseq/assets/221028 VW TVM, TVO 압력문제품 피스톤작동응답성 Raw-Data.xlsx][TVM TVO issued sample comparison xls -10/28]]
+- VW TC M/L pressure issue status  [[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGqRGZmcLlhdLplCwCSQclxNCxD][email from HTS]] [[file+sys:c:/logseq/assets/VW_중대형_TCON_유압문제현황_221020_rev2(보안해제).pptx][ppt file]]
+- Seal system measurement : [[file+sys:c:/logseq/assets/AQ301 TVM TC DA압 저하, 록업 지연, DA압 떨림 이슈 시작,양산 단품 측정결과.xlsx][measurement xls]]
+- Technical summary : [[file+sys:c:/Logseq\assets\VW AQ301 TC 압력 떨림 문제.pptx][ppt file]]
+- Final summary data recieved : [[file+sys:./data/VW AQ301_P2_원리시험_DA걸림감_Data정리_230214.xlsx][VW AQ301_P2_원리시험_DA걸림감_Data정리_230214.xlsx]]
+- Shaft hole declined shape : [[file+sys:./data/VW TVM DA 압력 걸림감 관련 변속기 샤프트 사양 비교_20230217-update.pptx][VW TVM DA 압력 걸림감 관련 변속기 샤프트 사양 비교_20230217-update.pptx]]
+- DA pressure drop mechanism study : [[file+sys:./data/VW TVM DA pressure delay issue-v01.pptx][VW TVM DA pressure delay issue-v01.pptx]]
+*** Root cause
+- Seal ring leakage
+  : if sel ring leakage issue, in high temperature leakage problem -- but Seal ring drag is different
+- Seal ring drag
+  : seal ring drag high at low temperature -- ##it should be simulated## with piston force and leakege with low temperature property of ATF
+  : Previous study, seal ring moving resistance solved ##when slip speed increased##
+- D ring drag
+  : Check How much piston pressure needed for ##piston movement in low temperature## with test data 
+- Seal ring leak and sudden closing by cover and shell mis-alignment
+  : Proto press fit welding but serial product does not, other in korea plant applied like this method
+*** DONE Delay on low temperature drag or less load
+- ZF O ring drag force measurement : [[file+sys:C:\emacs\data\O ring drag force.xlsx][O ring drag force.xlsx]]
+- Piston movement delay?
+- Apply load too low
+  - Pressure leak -- leakage can make pressure down?
+    : Dring leak -- low temperature leak but high temperature ok
+    : Seal ring leak -- But in high temperature OK
+  - D ring drag too big
+    : Roughness too high
+    : Dring material to hard -- shore hardness check
+    : D ring outside diameter NG? -- too big
+*** DONE leakage dring small gap
+- outside gap 0.02mm -- density 800 and viscosity 0.005 --> 0.016kg/s(1.2lpm)
+  : Pressure force @200kpa = 3708.8N,,, Piston area = 0.01834m^2, total force with 200kpa = 3668N
+- inside gap 0.02mm --   flow rate 6.43e-3 kg/s(0.48lpm)
+  : pressure force @200kpa = 3274.7N,,, but pressure drop nearly zero  
+- ~~지모스~~ 업체 제품을 적용하여 평가 필요
+- ``시작 사양에서만 문제가 있는 것인지`` : final vehicle test, Yusin is OK but scherdel is NG
+- Return spring guide gap small -- No effect
+- ~Return spring removal test~ : Do not performed
+*** ~~VW vehicle happen low temperature lockup shock~~
+:PROPERTIES:
+:ID:       e9ed04c3-0686-4b7e-bb87-940c6434b27f
+:END:
+- related information : [[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGrcsBJsDhGFSWNLcJjkwxCMRxH][email from HTS with small image]]
+- How to explan to VW : [[https://mail.google.com/mail/u/0/?tab=rm&ogbl&zx=9j41rozbvp9s#inbox/FMfcgzGslkgGmJNfKJwKdsdgpqGQWsfp][email discusted with HTS]] <-- Not real
+
+*** ``Final decision from 2023-03``
+**** LC response time fix from HTS 2.55s +/-0.2s
+[[https://mail.google.com/mail/u/0/?tab=rm&ogbl&zx=7fkep3eaodm7#inbox/FMfcgzGrcrvhdDphVPzcXWdzBJckbbKg][email from HTS]]
+*** ##Need another improvement acticity?## for improvement piston reponsibility :ug:
+** ~~TVA Slip durability~~
+:PROPERTIES:
+:ID:       4494adcb-e086-42f5-8efa-985d42883404
+:END:
+: current 900cycle failed sample retest with Torque down 450Nm > 420Nm and dn up to 5.5lpm
+: ``1300cycle failed with C3.5 and C4.5 32ea groove facing and pilot D6.0mm``
+- ##Another effect##
+  - Torque related factor
+    : radius, Force
+  - Temperature related factor
+    : Cooling flow rate, Swirl factor
+  - ##Cooling flow leakage by seal ring??##
+- ~~Damper hole effect and turbine hole effect study~~
+*** Why the life cycle goes down in better test condition?
+: Eventhough, test condition change to less power and more flowrate, life cycle goes down
+*** Heat capacity and optimal facing groove shape    
+*** New specification agreement -- [[https://mail.google.com/mail/u/0/?tab=rm&ogbl&zx=u5ra7rjlehx3#inbox/FMfcgzGrbljqLzkcjmQGtHCCfBfMWcZC][temporaty]]
+*** ~~How to make even oil flow rate or increase flow rate~~ 
+: 현재 문제점은 아주 작은 회전 속도 차이에서도 그루브 위치별 불균일한 유동이 발생된다. 커버측은 거의 유동이 안생김
+- *Remove leak seal b.w turbine and pilot*
+- *Groove shape change Chamfer type to straight type*
+- *Piston side bypass groove*
+  : there is good effect but find out optimal volume.
+*** ~~Why did not Approval to HTS~~
+- 신고를 준비 했지만, 하지 못했다. 내구까지 완료 되었지만, 담당자 변경 되면서
+  
+** ~~TVA TC in/out pressure down~~
+:PROPERTIES:
+:ID:       1c59ce47-cad5-4252-a47d-e3bd14b62f02
+:END:
+  - [[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGqRGZmcLlhdLplCwCSQclxNCxD][issue email]] and [[file+sys:c:/logseq/assets/VW_중대형_TCON_유압문제현황_221020_rev2(보안해제).pptx][VW 중대형 유압 문제 ppt]]
+  - *DA pressure goes up and TC in/out pressure down for one second and turn back to normal*
+  - But the root cause may be by seal ring
+    : TC pressre down 1 sec and TC pressure up to normal, seal ring can do make this behavior.
+     [[file+sys:c:/emacs/image/seal-ring-check.excalidraw][real ring squareness]]
+  - Squareness of side surface on the S/Hub
+    : if seal ring side surface leakage, pressure can drop in a short time and return to normal.
+    : But Why is it ok on the normal temperature.
+  - *Why the leakage occured several second later and go back to normal after 1 second leakage*
+    
+** ~~TVM Damper inside spring wear~~
+:PROPERTIES:
+:ID:       78120817-e577-4a95-ba76-13375f359b21
+:END:
+- Damper inside spring wear
+  : 시작 사양과 양산 사양은 거의 동일한 마모이지만, 보고는 축소되었음.
+  : 밸브 막힘 등에 대한 검토 의견과 질화적용은 스프링 내구성과 성능을 위해서 적용한다. 마모와는 관련이 없다.
+  : DV/PV 는 0.1mm 이내로 문제없이 나왔다. -- 이것은 지그의 영향이 큰 것으로 보인다. 따라서, 간극의 영향이 크다.
+  : 댐퍼 플레이트 벌어짐이 큰 영향이 있다. -- 벌어진 위치의 스프링은 마모가 크다.
+- Add Nitriding request from customer
+- ##Why the wear occurred##
+  Real drawing : contact surface is not good
+  `3 spring not large wear and other 3 spring is small --> plate deformation is different`
+- ~~N1 test finished, but increased wear amount~~
+  - [[file+sys:/data/VW AQ301 N1 내구 완료품 분석 보고서_Lot No.221200070_(송부).pptx][VW AQ301 N1 내구 완료품 분석 보고서_Lot No.221200070_(송부).pptx]]
+*** ``How to resolve it and Why do not happend damper duranility ??``
+  마모량은 고객에게 사실대로 통보됨(합동 분석 결과) -- 고객 요청 사항:개선 방안 회신
+*** How to make reproducing test condition and friction torque and hertz contact stress
+- Inside spring weight : 30g(0.03kg),  [[https://drive.google.com/drive/u/0/folders/1Wgty2BeiweEK2_Yu8gU_REuR-Jji5Px2][spring drawing]]
+- Position radius : R67.5mm
+- Spring stiffness : 65.5Nm (at 37.7deg from 45deg) for one spring, working angle 7.3deg
+- ~~It seemd more friction than simple calculation~~ --> ## check effect jamming condition ##
+- As spring wear bigger, the contact angle larger : [[file+sys:./image/spring contact wear effect.png][spring contact wear effect]]
+ #+begin_src R
+   mass <- 30/1000 ; rad <- 67.5/1000; Do <- 15/1000; rps <- 6500/60*2*pi; mu <- 0.1
+   stiff <- 65.5/(45-37.7)
+   Td <- (0.5*mass*rad*rps^2)*mu*(rad+Do/2.)*6.0
+   ang <- Td/stiff
+ #+end_src
+ 
+ #+RESULTS:
+ : 2.3527352264302
+
+** ~~TVM backup plate teeth wear~~
+:PROPERTIES:
+:ID:       5e2d85c2-03bd-4b06-b7e4-3f8a2e1c24de
+:END:
+- Reproduction test : [[file+sys:./data/AQ301 TVM TC steel disc wear 재현 평가 이력_2023-03-21.pptx][test results]] -- ##improved sample's wear is bigger than original##
+** ~~FNOK seal, shedral, facing, Nanfang bearing application plan~~
+:PROPERTIES:
+:ID:       53a7ba49-6b0b-48e8-bf80-7b20010478b8
+:END:
+- Sample review with home with 3D cut interface zone
+- Make plan process, what have to SLP team 
+- FNOK expierience of mass production -- [[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGslbJgKMXZTkrlfgMPkXBXVWxL][email]]
+** TVB CPA key off noise -- Cost issue
+:PROPERTIES:
+:ID:       b1b7b504-8155-43ef-b6c3-9edf6f894182
+:END:
+  : Defomation by HT process is not major factor to noise.
+  : No heat treatment sample make more noise than N/A sample.
+  - Steel offset sample for make more drag will be tested
+  - Cost up +10000KRW by Overmold stopper  [[file+sys:./data/VW TVB Pendulum NVH overmold stopper cost 230320.pptx][VW TVB Pendulum NVH overmold stopper cost 230320.pptx]]
+*** Reapperance noise in current sample
+- [[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGrbvJhdQVfwPLJJcmtSDnBdnGc][noise test with rubber stoper change]] but nearly same results -2dB down
+- Remove Overmold stopper test
+*** ~~calculation mass falling simulation~~
+: To know which condition is better, should be study moving pattern
+*** ~~Improve rubber stopper for remove Overmold stopper~~
+- Rubber and Support shape redesign
+** DONE TVA and TVB Stackup review
+see recieved email SLP design : [[https://mail.google.com/mail/u/0/?tab=rm&ogbl&zx=u5ra7rjlehx3#inbox/FMfcgzGrbljpZVndhQDCxCtWHcrWqVKk][email SLP]]
+** DONE AQ451 Friction plate hardness SLP cost down request
+- BWUSA : disk soft nitriding to through hardning
+  Plate : HRc50 and Disk carrier : HRc45 ~ HRc 55
+  Current Design spec : Min Hv650 with soft nitriding
+  [[https://mail.google.com/mail/u/0/?tab=rm&ogbl&zx=9j41rozbvp9s#search/%EC%86%8C%EA%B0%9C%E3%85%95%ED%98%B8+%E3%85%97%E3%85%81%E3%84%B1%E3%85%87/FMfcgzGrbvJhTHSTrWxJMWvzBvmrjNWS][LLC review results and answer]], [[file+sys:./data/VW_AQ451_Friction_Plate_Hardness_Review_20230111.pptx][Calculating results hardness and contact stress relation]]
+** DONE Tayron Damper plate broken
+- It caused by Damper corner R1.0 sample applied
+** TVO Damper plate broken at 1,233km
+- P1 initial Old version plate assembled
+* LX3 Theta 2.5T A8MF2 4Way TC RFQ
+:PROPERTIES:
+:ID:       81074632-80ed-4b1a-ae71-76b829d7b51e
+:END:
+: This project holding to end of Jun 2023.
+- 598K pcs/5 years
+- SOP Oct. 15th 2024
+- P1 Feb 1st 2024
+- Quotation : 17th Feb. 2023
+* P0 project issue
+** DONE Two chamber KBA teeth clearance and noise issue
+  Noise test reults : 0.25mm 76dB but 0.35mm 77.7dB increase 1.7dB [[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGrcFgJPjkvtpdvMnGdLtLdcRZC][see email for detail]]
+: teeth clearance spec 0.25mm but actual 0.35mm Max.
+: Additional activity : find out what is different from component to assemble
+** DONE KAF Two chamber impeller shell deformation issue
+: Line stock issue, when stock after brazing impeller shell jammimg each other.
+: Add shell embo shape, but it is not suitable for mass production
+: It will be solved with changing stock direction from horizontal to vertical.
+** PO HMC FR8S Pendulum key off noise issue
+:PROPERTIES:
+:ID:       74321815-b1fd-4dfc-bdec-4b3b7c6c9891
+:END:
+- [[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGrcPLmhNzDcMqHmpZwTRTddsWM][test results VK email]]
+- [[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGrcFhQxdfNDMdxprwxhVtwSmJC][IK PE2 P1 2차 주행 문제점 관련 토컨 원리시험 샘플 요청]] 
+- [[https://mail.google.com/mail/u/0/?tab=rm&ogbl&zx=9j41rozbvp9s#inbox/FMfcgzGrcPLmqbTPqPpgRnflJTQbQNNq][Status 02-08]] 
+- [[https://mail.google.com/mail/u/0/?tab=rm&ogbl&zx=9j41rozbvp9s#inbox/FMfcgzGrcXjNvdgxLslFXtRQjfHLBLCP][CPA 해석 관련 입력 자료]]
+** PH A8FR TC Damper plate crack and broken
+: Where : HTS RS4 mass production TC durability test(RPA)
+: When : 80% over 800 cycles
+** PH Damper Spring Poket corner shape change study
+:PROPERTIES:
+:ID:       738a7228-8091-4e64-8e03-10b8d9a3bce9
+:END:
+- [[file+sys:C:\emacs\image\Damper corner shape change.excalidraw][Study concept scketch]],  [[https://mail.google.com/mail/u/0/?tab=rm&ogbl&zx=9j41rozbvp9s#inbox/FMfcgzGrcXlgzjvPSCzcSMFpFXjbQNNv][Status email link to HMC]]
+** HMC 4기통 후륜8속 T/Con Damper T/Spring 업체 변경
+- [[https://mail.google.com/mail/u/0/?tab=rm&ogbl&zx=9j41rozbvp9s#inbox/FMfcgzGrcFhRRMVBffpPsdffSzkrrVrN][펜들럼 사양 대원 강업 스프링 적용 내구성 부족]]
+** KBN 구동계 내구 800cyc 완료품 마찰특성 NG 관련
+:PROPERTIES:
+:ID:       38fd5994-5c6f-4830-8427-eebc45b24b15
+:END:
+- [[https://mail.google.com/mail/u/0/?tab=rm&ogbl&zx=9j41rozbvp9s#inbox/FMfcgzGrcFdzNLfTtqDxgHmmghgCMSvZ][Status 01-17: Under the cost issue]]
+** RPA EP6L TC facing abnormal wear
+:PROPERTIES:
+:ID:       8a404a4a-5fca-4d08-a4b7-54e8196ec360
+:END:
+- [[https://mail.google.com/mail/u/0/?tab=rm&ogbl&zx=9j41rozbvp9s#inbox/FMfcgzGrcXlhKDCrhnBcJxGsJVFHxQSM][PSA EP6L 토컨 마찰재 역방향 본딩품 평가 결과 송부]]
+- [[https://mail.google.com/mail/u/0/?tab=rm&ogbl&zx=9j41rozbvp9s#inbox/FMfcgzGrbvGQfVltpRBWbWQqlMPTKxWT][PSA EP6L 피스톤 기울기 적용품 특성평가 결과 송부]]
+* Hybrid system
+** ~~9HP hybrid system~~
+:PROPERTIES:
+:ID:       5feb8059-98c4-4465-86ac-dbb66a243470
+:END:
+- 1st test condition study form Aron JO [[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGqRZgLCmJzFHVLqVNNhPmBNwpm][email]]
+- ZF meeting end of March or start of April
+  : Price 860,000KRW including motor -- STLA 8HP without Stator 800,000KRW
+  : 고객이 물어 보기전에, 공정을 얘기하는 것이 타당한 것인가? 제작 방법 등... 특징적이 있는지?
+- [[file+sys:./data/230321_사양제안서_HEV module_rev23_수정중.pptx][230321_사양제안서_HEV module_rev23_수정중.pptx]], [[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGslbPSKLRrCwcQrtjjsKvktRQf][email]]
+*** ##Torque base OWC shock test results##
+- [[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGslkgGmKTgdbWkGxZBQrcqBlSJ][email]] : Torque fluctuation appear -- is it by dynamo control??
+*** ~~New OWC type study -- 2kinds~~
+:PROPERTIES:
+:ID:       338a8cab-0a93-4ee6-9db8-f9317e751678
+:END:
+- friction type
+- wedge type -- add key with flexible plate spring
+*** Motor development
+- Loss : 동손, 철손, 역기전력(Back electro moving force)
+- 선경을 1.6mm 로 설계 하였으나, 1.5mm 로 변경 하여 손실 증가
+- Rotor 2000rpm 이상에서 분리해야 할 것으로 판단됨.
+*** Power saparating Motor development study  <2023-03-27>
+:PROPERTIES:
+:ID:       9f186505-8b18-474d-8f29-9f4a762190f3
+:END:
+- 철손을 줄이기 위해서는 2000rpm 이상에서 분리해야 한다
+** ~~STLA e8HP50 hybrid system~~
+:PROPERTIES:
+:ID:       04447fff-4949-4731-adf3-3f533088c103
+:END:
+- Slip durability study [[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGrbcGdpPVtmVqTPzgTZBnCTbKg][email from BWA]] [[file+sys:C:\emacs\data\220131_Valeo Kapec STLA HEV용 마찰재 Slip 내구성 검토 결과.pptx][BWA report ppt]]
+- 반드시 원가 경쟁력을 이기고, 수주를 받아야 한다.
+- ``Cost and weight`` : for low energy consumption
+** Asin one motor hybrid system -- Toyota New crown CrossOver RS
+- [[file+sys:./image/asin one motor hybrid.png][asin one motor hybrid system]] : Blue Nexus, Toyota, Denso jointly development
+- Down sizing and conpact design with two clutch system and 6AT direct shift clutch
+** Hybrid patent review -- watch engineering
+* High duty vehicle TC
+:PROPERTIES:
+:ID:       aefe3cb7-d15f-4d53-8bc1-742f99e21391
+:END:
+** WAV K808 D6HA(D) 420PS 7AT
+- weight 76.2kg, Max size D479, Torus D393
+- 3 way, multi-faced lockup, Engine 2,000Nm, 600PS, Redarder 1,600Nm (Max brake torque 2,000Nm)
+- Application : 경 장갑차, 30mm 대공포, 차륜형 지휘소
+- Power output(PTO) : 2EA
+* Supernal AAM hyndai Motor
+:PROPERTIES:
+:ID:       452f9c7f-8a27-4d61-b02d-fdd6eba71b11
+:END:
+- [[https://mail.google.com/mail/u/0/?tab=rm&ogbl&zx=2cynawkij0ze#section_query/(in%3Ainbox+OR+label%3A%5Eiim)+is%3Aunread/FMfcgzGrcrmdBzQQZTJCztsRBgsLlSnM][Related email from 현대자동차 구매 for AAM Project]]
+* New technology
+:PROPERTIES:
+:ID:       47baa147-d4f9-4f1b-bb4e-d46ba619adb3
+:END:
+** Newletter
+- [[C:\emacs\data\(제2022-11호) PHA Newsletter_배터리 관리 시스템(BMS) 기술 및 기업 동향_Final.pdf][베터리 관리 시스템 기술 및 기업 동향]]
+- [[https://mail.google.com/mail/u/0/?tab=rm&ogbl&zx=u5ra7rjlehx3#inbox/FMfcgzGlkjZKBLzbdGQldPPqRCnxQGCN][연료전지(PEMFC) 관련 시장 트렌드 및 주요/혁신 Players]]
+- [[https://mail.google.com/mail/u/0/?tab=rm&ogbl&zx=u5ra7rjlehx3#search/Newsletter/FMfcgzGqQmQvmpcGgzcPFbmGBFQvSNvV][파워트레인 Outlook 2022]]
+- [[https://mail.google.com/mail/u/0/?tab=rm&ogbl&zx=u5ra7rjlehx3#search/Newsletter/FMfcgzGpFgnSWQclzthXZBCxHpSlBWxK][구동모터 기술 트렌드]]
+  - Magnet free motor in MAHLE, Radial flux motor short length
+** High precision gearing for Robot
+*** Scheaffler's information
+**** Planetry gear box [[file+sys:c:/Logseq/assets/Schaeffler Precision Planetary gearbox.pdf][see pdf file]]
+ It seems to No good concept but study details
+  
+**** Strain wave gearing
+: It is a based with bearing technology
+- Is it important by bearing slip effect?
+- More detail
+
+** Review New automatic shift system in Bike
+: Using oil-pump eccentric mechanism for automatic shift system
+: Is it possible way to shift
+*** Is it possible way?
+- Oil pump system study pressure v.s speed
+** Digital twin -- SYMENS prejentation- [[file+sys:C:\Logseq\assets\디지털트윈을 활용한 모델 베이스 개발(221025).pdf][SIMENS prejentation materials]]
+:PROPERTIES:
+:ID:       a9a2a70b-30c5-4ff3-99f2-71975830e057
+:END:
+** Hydrogen gas station with TC
+:PROPERTIES:
+:ID:       727a7d14-73a7-4d5b-a7eb-12d6c7d72aca
+:END:
+*** feasibility test results
+: 15 HP(11.2kw) motor use : 185EK TC applied -- Tr 2.0 and Cf 12.7
+: &feasibility done with good results&
+*** Study heat cooling system in TC
+** Electric retarder
+*** Cooling system for ER
+- Electric retarder has a weakness in high Temperature
+  at high temperature condition, the magnet power goes down.
+- ~~How to make cooling system~~
+  Rotating velocity with vane has a cooling capcacuty.
+** Gas phase cycle engine
+*** Mechanism
+- Use heat cycle for engine with phase change? it it possible??
+** Battery system cooling fan
+** Dron, Air mobility, Coanda, Bladeness
+: 향후, 이동 수단이 하늘로 전파 되면서 드론같은 날개를 가지고 있는 동체는 소음을 유발한다.
+: 이런 소음 발생 동체가 수십개 하늘에 떠 다니게 될 것이고 무소음의 동체 기술이 필요하다.
+- [[https://www.youtube.com/watch?v=bPZI6XoHi10][Bladeless, Coanda]], [[https://www.youtube.com/watch?v=VLD8E2UraXw][Bladeless theory]]
+** Thermo Acoustic engine
+- Cylinder heating --> Acoustonc sound --> pressure vinration, [[https://www.youtube.com/watch?v=7KPszsp8o9s][Youtube]], [[https://www.youtube.com/watch?v=dkU6QQ1ckUQ][Youtube:How to work]]
+** Tesla Thermo Magnetic motor
+- Magent force elect metal and heating to loss the magnet force, very similar my idea [[https://www.youtube.com/watch?v=e6eO69Rd1ng][Youtube]]
+** A permanent Magnet Turn off
+- Can tirn off magnet - [[https://www.youtube.com/watch?v=PMma3OJUHhs][Youtube]]
+  : 원리 : Steel plate에 두개의 자석을 같은 방향으로 붙히면 자장이 크게 생기기 때문에, 철판을 뚫고 나가서 철판에 금속이 붙지만,
+  : 다른 방향으로 붙히면 자장이 짧아져서 천판을 뚫고 나가지 않아 떨어진다.
+** Wind turbine
+- 현재 일반적인 풍력 발전 시스템은 일정한 속도의 바람이 방향의 큰 변화 없이 안정적으로 불어주는 조건이 되어야 한다. 또한 저주파 소음 문제도 있기 때문에 해상 풍력을 만들게 된다.  
+- 또한, 거대한 터빈을 설치하는 것은 거의 건설업에 속하고, 유지 보수에 대한 서비스 업도 필요하다.  
+- 따라서, 풍향, 풍속에 무관하면서 소형의 발전기가 필요하다. 배치 방식도 조밀하게 배치할 수 있어야 하고 팬을 이용하지 말고 진동을 이용하는 기술도 개발이 필요하다.  
+** Spring energy vehicle
+- 태엽을 감는 방식의 자동차 : 에너지를 저장 했다가 쓰는 방식의 자동차 시스템은 모두 동일하다.
+  하지만, 베터리든 연소방식이든 손실이 따른다. *태엽은 손실이 가장 작은 방식이 아닐까?*
+** New motor system with Planetary gear set and wired twin motor
+- This idea is one stator and two rotor concept with Planetary gear set.
+  So, Motor and variable speed change gear box is one motor set.
+** Basic of battery
+- GM recall : battery supplier LG will give all recall money
+- 화재의 원인은 LG Nsol 진해성 불량의 근거 원래 셀의 물량은 없었지만, 세퍼레이트가 접힌다 N오더 탭이 낡아진다.
+  N 오더는 음극을 의미하고, 베터리 에서는 전압이 높은쪽이 양극 낮은쪽이 음극이다. 
+  차근차근 헤어지는 현상이 생기면서 화재가 발생된다.
+- 2019년 7월 28일 코나 화제 : 열악한 안전마진 속에서 운전 되었다.  
+  안전마진은 모바일에서는 안전 마진을 잡지 않고 사용했다. 하지만, 리튬이온 베터리는 가운데를 끊어서 사용하면 사용수명이 1990년도 중반에 소니에너지택에서 연구결과 발표했고,
+  모바일에서는 단전지 하나를 사용하기 때문에 별 영향이 없었지만, 여러개를 이어서 사용하는 경우, 장시가 사용하는 경우는 마진을 잡아주면 아넌을 확보 하는데도 유리하게 된다.
+  삼원계 양극 활물질을 사용하는 경우 특히 안전마진이 필요하다.
+- 충전시에도 고속충전과 저속 충전을 하는경우 SOC(Stage of charge) 80페선트 까지만 고속 충전을 사용한다.
+  회사별 완충 완방에서 취약한 경우가 다 다르다. 그래서 마진을 잡아서 사용해야 한다.
+  리튬이론 이차 전지 시도이유는 모바일의 경우, 에너지 밀도가 중요한다. 저장용량과 전압이 중요하다. 리튬을 음극으로 쓸때 가장높은 전압이 나온다. 극복불가능하다. 열역학이다.
+- 예전의 건전지 Dry cell 
+  리튬이온은 비수계, 수용액이 전해질로 사용하지않고, 유기계를 사용한다. 그래서 불이 붙는다. 수계의 경우는 2볼트를 높을수 없고, 유기계를 쓰면 3볼트를 쉽게 넘긴다.
+  무기계도 있지만, 화재에 유리하지만 마땅한게 없다. 전고체 전지쪽이 해당된다.
+  리튬이온은 유기계로 고 전압을 만들어냈고, 3.6볼트 근방으로 3배 가까이 높일수 있고, 전압이 높아서 에너지를 많이 저장 할 수 있다. 에너지 밀도가 높다. 가장 유리하다.
+- 리튬인산철 베터리(중국 선호, LFP)
+  리튬이온 2차 전지 일종이며, 양극 할물질 기준으로 명칭을 붙힌다. 음극은 대부분 비슷하므로, 3원계라도 부른다.
+  LFP기반은 에너지 밀도가 낮고, 화재에 대해서도 상대적으로 낫다. LFP도 화재는 나며, 유기계이기 때문에, 단락(Sote curcultted) 짧은 시간내에 폭발적으로 에너지를 방출하면서
+  열이 발생되고, 녹아 내린다. 열폭주이다. 열폭주는 원인이 아니고, 열폭주로 귀결이 되어 화재가 난다.
+- 전고체 베터리: 리튬2차 전지의 역사
+  리튬 1차 전지가 있었고, 리튬을 음극으로 사용되었고, 이것을 2차 전지화 하는 시험을 하는중, 80년대 후반에, 공격적인 마케팅을 하던 케나다 회사가 셀폰의 베터리에 장착했다가,
+  사용자가 화재가 나서 다치게 된다. 상해를 입었다. 캐나다의 회사는 망했다.
+  그래서, 두가지 트랜드로 2차 전지화 했다. 리튬 금속을 문제로 보고,
+  금속성 리튬을 없애자 --> 리튬 이온 2차전지(1990초 일본 상용화)
+  액체 전해질이 문제다 --> 고체로 바꾸자. 리튬금속 폴리머 2차 전지(미국 중심으로 개발, 아직도 개발 못함)
+  그당시 고체 전해질은 실패 했고, 리튬이온 2차 전지도 문제가 있다고 나오고, 다른계열의 고분자 전해질로 개발해보자 해서 전고체 베터리가 나옴.
+  안전하고, 에너지 밀도가 높다는 얘기가 나오는데, 거의 증명되고 있지 않다.
+  고분자를 사용하자는게 리튬이온 폴리머 이차전지도 있었지만, 리튬이온 하나의 계열로 되었고,그 이후에 고분자 전해질이 아니라 다른 계열의 고체전해질로 하자는것이
+  현재의 전고체 연구 트랜드가 되었다. 전고체에서 에너지 밀도가 높은 시스템은 하나뿐이다.
+- N ord free 시스템 음극을 없애는 방식으로 충방전을 반복하면 음극이 석출되어서 생겻다가 없어졌다 한다.
+** 완성차 업체 반도체 내재화
+- 자체  개발로 원가 절감 및 성능 향상, 개발 기간 단축 달성함
+- 전력 반도체 : 실리콘 카바이드로 반도체를 만들면, 가격은 비싸지만, 고 전압 고온에서도 안전성이 있어 2025년 부터 적용
+- 현대차, 도요타, BYD등 자회사를 설립하여 전력 반도체 설계 개발 추진중임.
+** CES and Trends
+- [[file+sys:C:\emacs\data\2023 CES_Overview.pptx][2023 CES overview Valeo]]
+* Exedy Edrive
+:PROPERTIES:
+:ID:       0bbb438e-690c-4778-b618-c2459e32386c
+:END:
+- https://mail.google.com/mail/u/0/?tab=rm&ogbl&zx=2cynawkij0ze#inbox/FMfcgzGrcrmdBqTDndnjmXlwQhLDZcZC
+- [[file+sys:./data/230309_Exedy_e-Drive.pptx][230309_Exedy_e-Drive.pptx]] from Jinsu Park 
+* ----------------------------------------------------------------
+* KAPEC VALEO Stretagy
+- PHC Advanced research meeting
+    [[file+sys:C:\emacs\data\221125_2022년 R&D 선행 연구 보고회.pptx][2022 PHC Groop Advanced Rnd conference ppt]]
+    [[file+sys:F:\10.meeting\PHC works\2021-04-선행연구보고\210429_PHC_선행연구보고회-rev19.pptx][210429 materials]]
+  - Hybrid system for FR HTS
+  - Micro BMS
+** Advanced research meeting(2022-11-25)
+*** PHC VMaker
+- 조상욱 대표
+  PHC 50% 투자회사
+- 방열 소재, 열계면 소자, 전자파 차폐 소재, 이종간 접합이 가능한 소재 및 코팅제
+- 전자파는 100% 차폐가 불가능 하다. 차폐효율은 60dB일때 99.9999차폐가 된다.
+- 전자파 차폐 : 구형의 구리에 은을 코팅해서 개발되었음.
+*** PHC-Valeo
+- Airfoil bearing
+  : 1mm 정도의 얇은 판을 적층해서 사용한다.
+- Shift by wire
+- HMC HEV 6 speed engine clutch system
+  : Total torque 27kgfm - motro torque 14kgfm
+- HEV Clutch actuating system
+- Intergrated disconnect system
+  : Dog clutch system responsibility time is 150ms acceptable
+- Electronic disconnector
+- Torque vectoring motor and inverter
+- FCEV high pressure regulater
+  : 700bar pressure down to 17.5bar for system usable pressure
+- 수소 재순환 불러워
+- 3세대 공기 압축기 터빈 일체형
+  : 터빈을 이용하여 소모 전력을 5kw 회수 가능하다. 모터 용향은 32kw 적용
+- 기액 분리기
+- Electric oil pump
+  : valeo technology product launching
+*** KAPEC Valeo BSA
+- Thermal runaway
+  : 열폭주가 가장 중요한 인자이다.
+- What is the mechanism of thermal runaway.
+  : 제어 시스템에 문제가 생겨서 온도가 올라가면, 환원 반응이 증가되고, 이때 또 열이 더 나고, 환원은 더 증가되고 이에 따른 겉잡을수 없는 온도 상승이 발생된다.
+- It is very important thing that can be made a good for business.
+  : 이것을 해결 할 수 있는 기술이 있다면 굉장히 좋은 수익 아이템이 될 것이다.
+** Advanced research meeting(2020-11)
+- [[file+sys:F:\10.meeting\PHC works\2020-11-선행연구보고][2020-11 선행연구 보고회]]
+** Valeo technology
+*** Valeo e-Bike
+- light weight and high power automatic transmission and 48V e-bike
+  [[https://edge.media-server.com/mmc/p/gny53vuq/lan/en][see valeo video]]  [[https://smartworkplace.apps.valeo.com/home/corp-you-asked-we-answered-the-new-valeo-smart-ebike-system-explained][itroduce web]]
+
+* Engineering standard & Design data
+** TC design
+- LLC : [[file+sys:C:\emacs\data\LLC_master_checklist_2023-01-04.xlsm][TC design LLC]]
+- TC analysis from Valeo : [[file+sys:F:\99.Engineering\2d - Torque_Converter_Performance_Methodologies_V5.pptx][Torque_Converter_Performance_Methodologies_V5.pptx]]
+** Engineering handbook and design guide
+- [[file+sys:C:\emacs\data\handbooks][engineering handbook]]
+- [[https://www.tribonet.org/wiki/][Tribology web]] , [[https://www.tribonet.org/wiki/analytical-solution-of-reynolds-equation-grubins-approximation/][Reynolds-equation]] , [[file+sys:C:\emacs\data\handbooks\Reynolds Equation - An Overview - About Tribology.pdf][Reynolds equation overview]],
+- [[https://x-engineer.org/]]
+** VW Design 
+- Inner race OWC centering dimention
+  | items        | dimension | Reactor |        | Inner |        |   gap |       |
+  |              |           |      up |   down |    up |   down |   min |   max |
+  |--------------+-----------+---------+--------+-------+--------+-------+-------|
+  | 68,YB,YC     |    41.275 |   0.045 |   0.02 | 0.008 | -0.005 | 0.012 |  0.05 |
+  | RC(FR)       |    52.444 |   0.074 |  0.044 | 0.008 | -0.005 | 0.036 | 0.079 |
+  | RA-inner     |    47.325 |   0.074 |  0.044 | 0.008 | -0.005 | 0.036 | 0.079 |
+  | RC-outer     |    69.163 |   0.015 | -0.015 | -0.03 |  -0.06 | 0.015 | 0.075 |
+  | Sin SO HYUNG |        37 |   0.045 |   0.02 |   0.0 |  -0.03 |  0.02 | 0.075 |
+  | AXO          |    47.325 |   0.115 |  0.045 | 0.008 | -0.008 | 0.037 | 0.123 |
+  | TVM          |      34.5 |   0.095 |  0.035 |   0.0 |  -0.03 | 0.035 | 0.125 |
+  #+TBLFM: $7=$4-$5::$8=$3-$6
+
+** Pendulum
+- [[file+sys:F:\20.pendulum][data of development f:\20.pendulum]]
+- test condition : [[C:\emacs\data\펜들럼 시험항목.pdf][test condition.pdf]] [[file+sys:C:\emacs\data\HMC_IK Pendulum 시험조건(그래프 삽입).pptx][HMC IK pendulum test condition ppt]]  [[file+sys:F:\20.pendulum\AT pendulum validation.pptx][Valeo standard ppt]]
+- [[file+sys:C:\emacs\data\VPH_160909_Pendulum PE15 test_Raw data_NVH 개선전 사양.xls][PE15 test raw data]]
+** Wave spring
+- [[file+sys:c:logseq/assets/wave-spring-design.png]]
+  [[https://www.smalley.com/spring-design/performance][Design equation - SI unit]]
+  [[file+sys:./data/wave spring design.xlsx][wave spring design excel sheet]]
+  Deflection = (PKD_m^3)/(Ebt^3 N^4) \times I.D/O.D     Stress = (3 \pi P D_m)/(4 b t^2 N^2) 
+** Bade design : BEM method
+- [[file+sys:c:/logseq/assets/BEM(blade_element_momentum)Thery.pdf][Blade element momentum theory]]
+** OWC design standatrd
+- Max stress : 3300Mpa Roller type, Sprag type below 1000Mpa(My be.. from BorqWarner) for 1 milion cycle
+** Bearing failure mode
+- [[C:\emacs\data\Bearing failure mode-brinelling spalling and fretting.pdf]]
+** MDF file viewer - asammdfgui.exe
+- vehicle test data MDF format viewer and extract CVS format [[file+sys:F:/asammdfgui/][F:\asammdfgui]]
+** Stress and strain
+- [[c:/emacs/data/stress and strain.pdf][stress and strain]]
+** Material property
+- [[file+sys:F:\material property\rubber\rubber-from-ansys.xlsx][rubber materials]] , [[https://www.azom.com/properties.aspx?ArticleID=920][silicon materials]],  [[file+sys:F:\material property\spring\spring-nitriding-hardness.ppt][Spring nitriding effect and life cycle]]
+- [[https://www.tribonet.org/calculators/viscosity-calculator-barus-and-roelands/][pressure viscosity coefficient]]
+- [[file+sys:C:\emacs\data\ATF-SK-SP4-온도-점도 특성.xls][ATF property]],  [[file+sys:F:\material property\atf engine oil thermal property.xlsx][ATF thermal property]]
+- [[file+sys:C:\emacs\data\handbooks\creep test - young's modulus temperature.pdf][Creep test young's modulus depend on temperature]]
+- [[file+sys:F:\material property\materials---2.xlsx][materials---2.xlsx]],  [[file+sys:F:\material property\S-N curve.xlsx][S-N curve.xlsx]]
+** Lubrication oil film thickness
+- [[https://www.youtube.com/playlist?list=PLu1i0eyydBX3kJmqE_uCjivWNAZKGXshp][Lubrication Fundamentals]]
+- [[file+sys:~/data/How to Calculate the EHL Oil Film Parameter _ Pumps & Systems.pdf][EHL oil filim thickness and roughness relation]]
+- [[https://www.youtube.com/watch?v=l134UNVTyxk&list=PLu1i0eyydBX3kJmqE_uCjivWNAZKGXshp&index=5][roughness and film thickness]]
+** Rolling resistance
+- [[file+sys:C:\emacs\data\How to calculate rolling resistance – x-engineer.org.pdf][Rolling resistance define]]
+** Gear design Lecture - Planetary, involute, Avoid pinion undercut
+- [[https://www.youtube.com/watch?v=tnnKGBIy5LI]]
+- [[file+sys:./data/AGMA 2101-C95 calculation Method for gear stress.pdf][AGMA 2101-C95 calculation Method for gear stress.pdf]]
+- [[file+sys:./data/AGMA_2001_D04_Rating_of_Spur_and_Helical.pdf][AGMA_2001_D04_Rating_of_Spur_and_Helical.pdf]]
+- [[file+sys:./data/AGMA 1102-A03 Tolerance specification for Gear Hobs.pdf][AGMA 1102-A03 Tolerance specification for Gear Hobs.pdf]]
+- [[file+sys:./data/AGMA 914-B04 Gear Sound manual-noise.pdf][AGMA 914-B04 Gear Sound manual-noise.pdf]]
+** Bearing design
+- https://www.youtube.com/watch?v=cU0wQHcYSSU&list=PL1IHA35xY5H5KqySx6n09jaJLUukbvJvB&index=19
+** Contact fatique define hardness
+- [[https://www.youtube.com/watch?v=WLbImDnnnIY][contact stress and surface fatigue]], [[file+sys:./data/Gear contact stress.pdf][Gear contact stress.pdf]], 
+  S_c = C_p (F/W(1/r_1+1/r_2))^0.5, F: force , W: width, C_p : materials(elastic coefficient defined by AGMA(American Gear Manufacturers Association)
+  1/(\pi C_p^2) = ((1-v_1^2)/E_1+(1-v_2^2)/E_2) -- C_p = ( 1/(\pi((1-v_1^2)/E_1+(1-v_2^2)/E_2 )))^0.5
+  (S_c)10^8 = 0.4(ksi)H_B - 10ksi ,   S_c = aN^b ksi; b : as an example -0.055 -> SI unit: S_c=6.895aN^b, 1ksi = 6.895Mpa
+- Contact hardness calculation
+  #+begin_src R
+    E1 <- 210000; E2 <- 210000; v1 <- 0.3; v2 <- 0.3; r1 <- 8.0; r2 <- r1
+    F = 300; W = 4*0.3; Nt = 1e8 ; Na = 1e8
+    cp <- (1/(pi*((1-v1^2)/E1+(1-v2^2)/E2)))^0.5
+    Sc <- cp*(F/W*(1/r1+1/r2))^0.5 ; a <- Sc/((1e8)^(-0.055))
+    Hb <- (Sc + 10*6.895)/(0.4*6.895)
+    sprintf("Sc= %f.4, a= %f.4, Hb = %f.4", Sc, a, Hb)
+  #+end_src
+
+  #+RESULTS:
+  : Sc= 1515.092072.4, a= 4172.910073.4, Hb = 574.344479.4
+  
+** Contact theory, wear process, fatique wear, prediction wear, Lubricant etc
+- [[https://www.youtube.com/playlist?list=PL9nARBd2NBsYWarjXrv4ZxTUl0Qx0izkF][Lecture tribology and wear and contact and lubricant]]
+** Spring fatigue, Shot pineening, design -- fatigue relation
+- https://www.youtube.com/watch?v=upMMlQEfq4Q&list=PL1IHA35xY5H5KqySx6n09jaJLUukbvJvB&index=17
+  ASME Fatigue criteria : (\tau_a/S_se)^2 + (\tau_m/S_sy)^2 = 1/n^2 , n: safty factor
+  (S_sa/S_se)^2 + (S_sm/S_sy)^2 = 1 -> find S_se for upper equation.
+- https://www.youtube.com/watch?v=Wfj2mjraWts  examples Goodman Gober etc
+- https://www.youtube.com/watch?v=mAJsN1_IY2U&t=0s more detail explaination
+- https://www.youtube.com/watch?v=rjTMPsmACOo Alternating stress Goodman criteria, axial fatique Load
+- https://www.youtube.com/watch?v=SWpINMKNl9s spring design
+- [[file+sys:/data/CH 6 Fatigue failure resulting from variable loading.pdf][CH 6 Fatigue failure resulting from variable loading.pdf]]
+** Stress and strain, S-N curve fatigue
+- [[https://www.youtube.com/watch?v=bo4TdlQWSY4][Basic fatigue and S-N diagram]]
+- [[https://www.youtube.com/watch?v=uwueA0a5y4o][stress concentration factor]]
+- [[https://www.youtube.com/watch?v=fei7iQd_lVE][fatigue goodman diagram design example]]
+- [[https://www.youtube.com/watch?v=SOuJKinePR0][Engineering stress strain and true stress ans strain]]
+- [[https://www.youtube.com/watch?v=xmXf4zmwwWc][ENGR380 Fatiguq failure (Introduction Marin factor)]]
+- [[https://www.youtube.com/watch?v=QEdLsihcrYo][ENGR380 Lecture8 Create Stress-Life Diagram and Fatigue Stress Concentration Factor]]
+- [[https://www.youtube.com/watch?v=c7lm3BkPoLs&list=RDCMUCfymWGmfNb3QJcWo2YJyQqA&index=2][ENGR380 Lecture9 Fatigue Failure Theories for Fluctuating Stress]]
+** Machine Element Design
+- https://www.youtube.com/playlist?list=PL1IHA35xY5H5KqySx6n09jaJLUukbvJvB
+- [[file+sys:./mechanical design/][c:/emacs/data/mechanical design]], including gear design AGMA
+* My study
+** Integration site : [[https://www.symbolab.com/solver/partial-derivative-calculator/%5Cint%5Cfrac%7B1%7D%7B%5Cleft(ax%2Bb%5Cright)%5E%7B2%7D%7D%20dx?or=input][integration or variable equation]]
+** Youtube avialiabl site
+*** Engineering study
+https://www.youtube.com/watch?v=JpVG04I4SSI&list=PL5pdglZEO3Ng66hocZTzU4dzSV1fKnfGD&index=6
+https://www.youtube.com/watch?v=wamyHAcPPII&list=PL5pdglZEO3Ng66hocZTzU4dzSV1fKnfGD&index=8
+https://www.youtube.com/@ExamSolutions_Maths
+*** Tribology and Lubrication
+https://www.youtube.com/watch?v=mO7KNBhTWnw&list=PL9nARBd2NBsYWarjXrv4ZxTUl0Qx0izkF&index=2
+*** Engineering idea data
+ [[file+sys:~/data/Overrunning_and_Backstopping_Clutch.pdf][Overruning and backstop clutch]]
+** TODO ~~Lecture for engineering~~
+:PROPERTIES:
+:ID:       9e96455e-893b-4105-a4de-cb5ca122889b
+:END:
+- Hertz pressure stress calculation
+  - Max hertz pressure Roller OWC 3300 others 2500Mpa
+- OWC floating point calculation and inner race diameter
+- OWC torque for TVM and TVA etc
+- Wear and Lubrication and roughness and hardness
+  - conformal contact and non-conformal contact
+- Balancing basics
+  - aspect ratio and x-y balance effect
+  - weighting position
+- Balancing mechanism
+- Torque fluctuation and inertia effect
+- Bearing life time calculation method
+- Bearing eccentric effect
+- friction coefficient and Torque transmition
+- Spring stress with curvature or straight and FEM
+- Spring hysteresis and design method
+- fluid heat transfer for TC circuit -- how much flow rate need?
+- O ring seal
+- seal ring mehanism and design condition
+- Blade design method
+- Spline curve calculation methid with excel equation
+- Statistic properbility
+- fittness standard
+- rivetting mechanism -- rivetting load and residual stress
+- materials -- stress and strain engineering stress and true stress
+- hardeening -- spring back
+- stackup method 
+** R&D revitalization plan - workshop
+- Engineer per years  년도별 인원 현황 : [[https://mail.google.com/mail/u/0/?tab=rm&ogbl&zx=9j41rozbvp9s#section_query/(in%3Ainbox+OR+label%3A%5Eiim)+is%3Aunread/FMfcgzGrcFhShCLdCQTdcxwSQkGfBpMP][년도별 인원 현황]]
+- Research list
+  - 전공
+  - 관심 분야
+  - 현재 하고 있는 업무
+  - 미래 하고 싶은 업무
+  - 자신 있는 분야
+  - 문제 개선이 지연되고 있는 사유는 무엇이라 생각 하는가?
+  - 애로 사항
+  - 하기 힘든일
+  - 해석그룹 폐지에 대한 생각
+- 전문가 그룹
+  - 엔지니어 기본 역량 
+  - Blade design 전문가 / 열 전문가 / 금속 및 열처리 전문가 / 피로 전문가 / 펜들럼 전문가 / 
+  - 모터 스터디
+** Ansys technic
+*** Spaceclaim imprint : Prepare > imprint
+*** Share faces : workbench > share
+** Creo option setup
+*** Dimension setting: file > Prepare > drawing setting
+: text_height, text_thickness, text_width_factor
+: draw_arrow_length, draw_arrow_width
+: dim_leader_length, witness_line_delta, witness_line_offset
+* R-study
+ - https://www.datamentor.io/r-programming/#first-r-program
+ - https://blog.naver.com/liberty264/220984298909
+ - [[file+sys:C:\emacs\data\R-language.pdf][R-language manual]]
+   : getwd() working directory
+   : setwd() working directory set setwd("C:/work")
+   : head("",3) print 3 lines
+** while loop
+#+begin_src R
+  i<-1
+  while (i<6) {
+  i=i+1
+  }
+  i
+#+end_src
+
+#+RESULTS:
+: 6
+
+** for loop, seq
+#+begin_src R
+  x <- c(2,5,3,9,8,11,6)
+  count = 0
+  for(val in x) {
+    if(val %% 2 ==0) count = count+1
+    }
+  print(count)
+#+end_src
+
+#+begin_src R
+  n = 0
+  for(i in seq(1, 78, 2)) {n = n + 1}
+  n
+#+end_src
+
+#+RESULTS:
+: 39
+
+** repeat loop
+#+begin_src R
+    x <- 1
+  repeat {
+  print(x)
+  x = x+1
+  if (x == 6){
+  break
+  }
+  }
+  x
+#+end_src
+
+#+RESULTS:
+: 6
+
+** if else
+#+begin_src R
+  x <-5
+  if(x>0) {print("Positive")} else {print("netagive")}
+#+end_src
+
+#+RESULTS:
+: Positive
+
+** if else if
+#+begin_src R
+   x<-1
+   if(x<0) {print("negative")}
+   else if(x>0) {print("positive")}
+   else print("zero")
+#+end_src
+
+#+RESULTS:
+: positive
+
+** ifelse()
+#+begin_src R
+  a = c(5,7,2)
+  ifelse(a %% 2 == 0, "even", "odd")
+#+end_src
+
+#+RESULTS:
+| odd  |
+| odd  |
+| even |
+
+** operator
+: & and | or ! not %% remainder <=, >= == 
+: != not equal, %/% = integer division
+#+begin_src R
+  x <- 0 ; y<- 0
+  if( x>0 & y>0) {print("positive")}
+  else if (x == 1 | y==1) {print("x or y =1")}
+    else print("hello")
+  7%%2
+  7%/%2
+#+end_src
+
+#+RESULTS:
+: 3
+** test R
+#+begin_src R
+  a=(0.2/1.3*18.82)/2
+  b=4.55/2
+  c=sqrt(b^2-a^2)
+  c(b-c,b,a)
+#+end_src
+
+#+RESULTS:
+| 0.520060689867447 |
+|             2.275 |
+|  1.44769230769231 |
+
+** read, write, rownames, colnames, row.names
+: row.names=c("row1","row2","row3"), col.names=c("col1","col2") in read sentense
+#+begin_src R
+  carSpeeds <- read.table(file='./R-test/car-speed.csv', header = TRUE, strip.white = TRUE)
+  head(carSpeeds)
+  #carSpeeds[1,]
+  carSpeeds$Color
+  carSpeeds
+  write.table(carSpeeds, file='./R-test/out.csv', row.name = FALSE)
+  rownames(carSpeeds)
+  colnames(carSpeeds)
+#+end_src
+
+#+RESULTS:
+| 1 |
+| 2 |
+| 3 |
+| 4 |
+| 5 |
+| 6 |
+
+#+begin_src R
+  read.table(file='./R-test/out.csv', header = T)
+#+end_src
+
+#+RESULTS:
+| Blue  | 32 | NewMexico |
+| Red   | 45 | Arizona   |
+| Blue  | 35 | Colorado  |
+| White | 34 | Arizona   |
+| Red   | 25 | Arizona   |
+| Blue  | 41 | Arizona   |
+
+** Matrix solver
+#+begin_src R
+  M1 <- matrix(c(1,2,3,4), nrow=2)
+  M11 <- solve(M1)
+  M2 <- matrix(1:2, nrow=2)
+  2*M11%*%M2
+#+end_src
+
+#+RESULTS:
+| 2 |
+| 0 |
+
+** rbind, cbind
+#+begin_src R
+  name <- c("A", "B")
+  height <- c(10,11)
+  df1 <- data.frame(name, height)
+  rbind(name, height)
+  cbind(name, height)
+#+end_src
+
+#+RESULTS:
+| A | 10 |
+| B | 11 |
+
+** add header names
+#+begin_src R
+  x <- list(c(1:5), c(1:5)^2)
+  names(x) <- c("t","s")
+  x$t
+#+end_src
+
+#+RESULTS:
+| 1 |
+| 2 |
+| 3 |
+| 4 |
+| 5 |
+
+** Spline curve
+#+begin_src R
+  x <- list(c(1:5), c(1:5)^2)
+  names(x) <- list("t","s")
+  spline(x$t, x$s, xout=1.2)
+#+end_src
+
+#+RESULTS:
+| 1.2 | 1.44 |
+
+#+begin_src R
+  x <- c(1,2)
+  y <- c(3,4)
+  z <- data.frame(x,y)
+  spline(z$x, z$y, xout=1.5)
+  spline(x,y, xout=3)
+#+end_src
+
+#+RESULTS:
+| 3 | 5 |
+** Max, which.max
+#+begin_src R
+  x <- c(1,5,3,2)
+  max(x[1:3])
+  which.max(x[1:3])
+#+end_src
+
+#+RESULTS:
+: 2
+** sort, order
+: sort can not use data.fram
+#+begin_src R
+  v1 <- c(1,2,2,4,5)
+  v2 <- c(1,2,3,4,5)
+  v12 <- data.frame(v1, v2)
+  v1_srt <- sort(v1)
+  v12_ord <- v12[order(v1,-v2),]
+  row.names(v12_ord)
+  row.names(v12_ord) <- NULL
+  row.names(v12_ord)
+#+end_src
+
+#+RESULTS:
+| 1 |
+| 2 |
+| 3 |
+| 4 |
+| 5 |
+
+* R-code
+** VW EWP data - treatment
+- fluid performance spline test
+  #+begin_src R
+    x <- read.table(file='./R-test/TVM-fluid-perform.txt', header=TRUE)
+    y <- data.frame(matrix(nrow=0,ncol=3))
+    
+    for(i in 1:51) {
+      vx = (i-1)/25
+      v1 <- as.numeric(spline(x$e, x$tr, xout=vx)[2])
+      v2 <- as.numeric(spline(x$e, x$cf, xout=vx)[2])
+      y <- rbind(y, c(vx, v1, v2))
+      }
+
+    names(y) = c("sr","tr","cf")
+    write.table(y, file='./R-test/per-test.txt', row.name=FALSE)
+
+  #+end_src
+
+  #+RESULTS:
+  
+- filter time interval 0.2sec
+  #+begin_src R
+    x <- read.table(file='./R-test/Jetta-ewp.txt', header=TRUE)
+    nrow(x)
+    y <- data.frame(matrix(nrow=0,ncol=7))
+    names(y) <- names(x)
+  
+    for (i in 1:nrow(x)) {
+      if( (x$t[i]*10) %% 1 == 0) y <- rbind(y,x[i, ]) }
+    write.table(y, file='./R-test/Jetta-fil-0.1sec.txt', row.name=FALSE)
+  #+end_src
+
+  #+RESULTS:
+
+- Reactor speed and torque calculation  
+  #+begin_src R
+    x <- read.table(file='./R-test/Atlas-0.1sec.txt', header=TRUE)
+    nrow(x)
+    head(x,5)
+    y <- read.table(file='./R-test/TVA-fluid-perform.txt', header=TRUE)
+    z <- data.frame()
+
+    a = 1/(1-0.8)
+    b = 1-a
+
+    for(i in 1:nrow(x)) {
+      if(x$rpme[i] == 0) v1 <- 0
+      else v1 <- x$rpmt[i]/x$rpme[i]
+
+      if(v1 < 0.8) {
+         v2 = 0.0
+         v3 = as.numeric(spline(y$e, y$cf, xout=v1)[2])*(x$rpme[i]/1000)^2
+         v4 = as.numeric(spline(y$e, y$tr, xout=v1)[2])*v3
+         v5 = v4 - v3 }
+      else if(v1 >=0.8 & v1 <1) {
+         v2 = x$rpme[i]*(a*v1+b)
+         v3 = as.numeric(spline(y$e, y$cf, xout=v1)[2])*(x$rpme[i]/1000)^2
+         v4 = as.numeric(spline(y$e, y$tr, xout=v1)[2])*v3
+         v5 = 0.0 }
+      else {
+         v2 = 0.5*(x$rpme[i]+x$rpmt[i])
+         v4 = as.numeric(spline(y$e, y$cf, xout=v1)[2])*(x$rpmt[i]/1000)^2
+         v3 = v4 / as.numeric(spline(y$e, y$tr, xout=v1)[2])
+         v5 = 0.0 }
+          
+      z <- rbind(z, list(v1,v2,v3,v4,v5))
+      }
+
+     names(z) =c("sr","rpms","Tp","Tt","Ts")
+    f <- cbind(x, z)
+    write.table(f, file='./R-test/Atlas-out.txt', row.name=FALSE)
+  #+end_src
+
+  #+RESULTS:
+
+- Reactor Torque cycle
+  #+begin_src R
+    x <- read.table(file='./R-test/Tayron-torque.txt', header=TRUE)
+    y <- data.frame()
+    z <- data.frame()
+    y <- rbind(y, x[1, ])
+
+    names(y) <- names(x)
+
+    m <- 10
+    n <- nrow(x)%/%m
+    ns = 1 ; ne = m+1
+    for(i in 1:(n+1)) {
+      ymax <- max(x$Ts[ns:ne]) ; ymin <- min(x$Ts[ns:ne])
+      mx <- which.max(x$Ts[ns:ne])+ns-1; mn <- which.min(x$Ts[ns:ne])+ns-1
+      z <- rbind(z, c(i, ns, ne, mn, mx))
+
+      if(ymax-ymin < 2) y <- rbind(y, x[mx, ])
+      else if(ymax-ymin > 20) 
+       if(mn < mx ) {
+        if(mn>ns & mn<ne ) y <- rbind(y, x[mn, ])
+        if(mx>ns & mx<ne ) y <- rbind(y, x[mx, ]) }
+      else if(mx < mn ) {
+        if(mx>ns & mx<ne ) y <- rbind(y, x[mx, ]) 
+        if(mn>ns & mn<ne ) y <- rbind(y, x[mn, ]) }
+
+      ns = ne-1; ne = ns+m+1
+      if(ne > nrow(x) ) ne = nrow(x)
+      else if(ns == ne) break
+      }
+    names(y) <- names(x)
+    y_ord <- y[order(y$t),]
+
+    write.table(y_ord, file='./R-test/out.txt', row.name=FALSE)
+    write.table(z, file='./R-test/1.txt', row.name=FALSE)
+
+  #+end_src
+  #+RESULTS:
+
+  : 2nd method; peak --> filter tolerance with even number
+  #+begin_src R
+    x <- read.table(file='./R-test/Tayron-torque.txt', header=TRUE)
+    y <- data.frame()
+    n <- nrow(x)-1
+    y <- x[1,]
+    names(y) <- names(x)
+    tol <- 10
+
+    for(i in 2:n) {
+      if(x$Ts[i]>x$Ts[i-1] & x$Ts[i]>x$Ts[i+1] & abs(y$Ts[nrow(y)]-x$Ts[i]) > tol) y <- rbind(y, x[i, ])
+      if(x$Ts[i]<x$Ts[i-1] & x$Ts[i]<x$Ts[i+1] & abs(y$Ts[nrow(y)]-x$Ts[i]) > tol) y <- rbind(y, x[i, ])
+      }
+
+    n <- nrow(y)-1
+    z <- data.frame()
+    z <- rbind(z,y[1, ])
+    for(i in 2:n) {
+      if(y$Ts[i]>y$Ts[i-1] & y$Ts[i]>y$Ts[i+1]) z <- rbind(z, y[i, ])
+      if(y$Ts[i]<y$Ts[i-1] & y$Ts[i]<y$Ts[i+1]) z <- rbind(z, y[i, ])
+      }
+    z <- rbind(z, y[nrow(y), ])
+
+    write.table(z, file='./R-test/Tayron-torque-peak.txt', row.name=FALSE)
+  #+end_src
+  #+RESULTS:
+  
+* ~~Others personal~~
+* TODO ~~My project~~ review
+:PROPERTIES:
+:ID:       fa8a04dd-0f76-4ca9-9fed-6cdcd0d58694
+:END:
+1. *VW Project support*
+   - Square rivet failre
+     - Change layout -- torque path is no good way
+     - Rivet claculation method and correllation simple way
+     - Fatique calaulation method study and calculation their life time
+   - Damper plate broken
+   - Fluid noise
+   - Clatter noise
+   - TVM Lockup slip life
+   - Pendulum issue
+     - Contact pressure
+     - Design review
+     - FEM analysis myself
+     - Engine off noise mechanism and rubber design guide
+       - for Remove rubber ring
+     - Culation rattile impact noise calculation gap and weight etc
+   - Low temperature viscosity drag
+     - Mechanism and how to improvement
+   - Return spring wear condition
+     - Rotating condition and spring load resistance
+     - TVM is not rotating with low inertia but TVA has Large torque it make a rotating
+       : If small rotating, the wear is not big
+     - Calculation hartz pressure 
+   - TC balloning analysis method review
+   - Pendulum rivet design issue review
+     - VPH durability test results -- broken and released the rivet
+2. *Hybrid system study*
+   - System efficiency study
+     - OWC system impact torque calculation
+     - System efficiency study with motor driving
+3. *Other new technology study*
+   - Gas station with TC
+     - feasibility test done -- Good results
+   - OWC system study -- New concept
+   - OWC Damping system
+   - Precision reduction gear with internal gear set
+   - New reduction system -- with two motor
+4. *New year project*
+   - VPH 협업하여 무엇을 할 수 있을까?
+   - 신규 개발 아이템을 개발 하는게 좋지 않을까?
+     
+* *All data should be in the one file*
+gmail : eysy301400779988##
+hyundai card 현대카드 0739
+Apple : New20230897
+
+
+ERP system: http://ehr.valeophc.com:8090
+Company code : KV00, Group code 7000 ID/PW 1198015
+
+
+- 작년에 현대차 글로벌 3위 684만대 생산
+- 당부 사항 3개
+  1. ESG 경영을 하겠다.환경 안전 법규 준수
+  2. 2차사 3차사 역량 강화 해달라는 요구
+  3. 품질 관리
+- 금년은 작년대비 10% 판매 목표를 향상
+- 현재차 미래 모빌리티 전략  김용화 부사장
+  - 전기차
+  - 자율 주행
+  - 로보틱스
+  - AAM Advanced air mobility
+
+
+

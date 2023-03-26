@@ -1,0 +1,12 @@
+
+#+STARTUP: indent
+
+* Schaeffler's future technology
+** High precision reducer for Robotics
+*** Planetry gear box [[file+sys:c:/Logseq/assets/Schaeffler Precision Planetary gearbox.pdf][see pdf file]]
+-
+  
+*** Strain wave gearing
+- It is a based with bearing technology
+
+  
